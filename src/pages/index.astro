@@ -95,7 +95,7 @@ const recentQuestions = allQuestions
 									<span class="category-badge">{post.data.category}</span>
 								)}
 								<h3 class="card-title">
-									<a href={`/blog/${post.slug}/`}>{post.data.title}</a>
+									<a href={`/blog/${post.data.slug || post.id}/`}>{post.data.title}</a>
 								</h3>
 								<p class="card-description">{post.data.description}</p>
 								<div class="card-meta">
@@ -132,7 +132,7 @@ const recentQuestions = allQuestions
 								)}
 							</div>
 							<h3 class="question-title">
-								<a href={`/questions/${question.slug}/`}>{question.data.title}</a>
+								<a href={`/questions/${question.data.slug || question.id}/`}>{question.data.title}</a>
 							</h3>
 							<p class="question-description">{question.data.description}</p>
 							<div class="question-meta">
@@ -159,7 +159,7 @@ const recentQuestions = allQuestions
 									<span class="category-badge">{post.data.category}</span>
 								)}
 								<h3 class="card-title">
-									<a href={`/blog/${post.slug}/`}>{post.data.title}</a>
+									<a href={`/blog/${post.data.slug || post.id}/`}>{post.data.title}</a>
 								</h3>
 								<p class="card-description">{post.data.description}</p>
 								<div class="card-meta">

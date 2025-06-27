@@ -35,6 +35,7 @@ const questions = defineCollection({
 		author: z.string().optional(),
 		featured: z.boolean().optional(),
 		heroImage: image().optional(),
+		slug: z.string().optional(),
 	}),
 });
 

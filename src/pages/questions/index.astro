@@ -1,7 +1,7 @@
 ---
-import Layout from '../layouts/Layout.astro';
+import Layout from '../../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
-import FormattedDate from '../components/FormattedDate.astro';
+import FormattedDate from '../../components/FormattedDate.astro';
 
 // Get all questions
 const allQuestions = await getCollection('questions');
@@ -73,7 +73,7 @@ const questionsByDifficulty = {
 							</div>
 							
 							<h2 class="question-title">
-								<a href={`/questions/${question.slug}/`}>{question.data.title}</a>
+								<a href={`/questions/${question.data.slug || question.id}/`}>{question.data.title}</a>
 							</h2>
 							
 							<p class="question-description">{question.data.description}</p>
