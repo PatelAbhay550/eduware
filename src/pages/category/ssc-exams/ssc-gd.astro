@@ -753,7 +753,7 @@ const physicalTests = [
 								{gdPosts.slice(0, 3).map(post => (
 									<div class="bg-white rounded-lg shadow-md p-4">
 										<h4 class="font-semibold mb-2">
-											<a href={`/blog/${post.slug}`} class="text-blue-600 hover:text-blue-800">
+											<a href={`/blog/${post.data.slug || post.id}/`} class="text-blue-600 hover:text-blue-800">
 												{post.data.title}
 											</a>
 										</h4>

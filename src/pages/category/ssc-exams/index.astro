@@ -1,7 +1,7 @@
 ---
-import Layout from '../../layouts/Layout.astro';
+import Layout from '../../../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
-import FormattedDate from '../../components/FormattedDate.astro';
+import FormattedDate from '../../../components/FormattedDate.astro';
 
 // SSC exam subcategories
 const sscExams = [
@@ -205,7 +205,7 @@ const sscQuestions = allQuestions.filter(question =>
 									</div>
 								)}
 								<h3 class="card-title">
-									<a href={`/blog/${post.slug}/`}>{post.data.title}</a>
+									<a href={`/blog/${post.data.slug || post.id}/`}>{post.data.title}</a>
 								</h3>
 								<p class="card-description">{post.data.description}</p>
 								<div class="card-meta">

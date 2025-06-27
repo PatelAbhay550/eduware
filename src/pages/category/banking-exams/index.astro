@@ -1,7 +1,7 @@
 ---
-import Layout from '../../layouts/Layout.astro';
+import Layout from '../../../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
-import FormattedDate from '../../components/FormattedDate.astro';
+import FormattedDate from '../../../components/FormattedDate.astro';
 
 // Get banking exam related content
 const allBlogPosts = await getCollection('blog');
@@ -182,7 +182,7 @@ const totalVacancies = bankingExams.reduce((sum, exam) => {
               )}
               <div class="blog-content">
                 <h3>
-                  <a href={`/blog/${post.slug}/`}>{post.data.title}</a>
+                  <a href={`/blog/${post.data.slug || post.id}/`}>{post.data.title}</a>
                 </h3>
                 <p>{post.data.description}</p>
                 <div class="blog-meta">

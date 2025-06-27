@@ -335,7 +335,7 @@ const activeTab = Astro.url.searchParams.get('tab') || 'overview';
           {ibpsPoPosts.slice(0, 3).map(post => (
             <article class="article-card">
               <h3>
-                <a href={`/blog/${post.slug}/`}>{post.data.title}</a>
+                <a href={`/blog/${post.data.slug || post.id}/`}>{post.data.title}</a>
               </h3>
               <p>{post.data.description}</p>
               <div class="article-meta">

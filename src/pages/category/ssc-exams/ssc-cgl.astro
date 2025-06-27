@@ -515,7 +515,7 @@ const jobNotifications = [
 						<article class="material-card">
 							<div class="card-content">
 								<h3 class="card-title">
-									<a href={`/blog/${post.slug}/`}>{post.data.title}</a>
+									<a href={`/blog/${post.data.slug || post.id}/`}>{post.data.title}</a>
 								</h3>
 								<p class="card-description">{post.data.description}</p>
 								<div class="card-meta">

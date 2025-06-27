@@ -69,7 +69,7 @@ const { category } = Astro.params;
 								)}
 							</div>
 							<h2 class="post-title">
-								<a href={`/blog/${post.slug}/`}>{post.data.title}</a>
+								<a href={`/blog/${post.data.slug || post.id}/`}>{post.data.title}</a>
 							</h2>
 							<p class="post-description">{post.data.description}</p>
 							{post.data.tags && post.data.tags.length > 0 && (
