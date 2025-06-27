@@ -7,7 +7,7 @@ import { Image } from 'astro:assets';
 export async function getStaticPaths() {
 	const questions = await getCollection('questions');
 	return questions.map((question) => ({
-		params: { slug: question.slug },
+		params: { slug: question.data.slug || question.id },
 		props: question,
 	}));
 }
