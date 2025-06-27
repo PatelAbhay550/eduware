@@ -1,8 +1,8 @@
 ---
-import Layout from '../layouts/Layout.astro';
+import Layout from '../../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
-import { CATEGORIES } from '../consts';
-import FormattedDate from '../components/FormattedDate.astro';
+import { CATEGORIES } from '../../consts';
+import FormattedDate from '../../components/FormattedDate.astro';
 
 // Get all blog posts and group by category
 const allBlogPosts = await getCollection('blog');
@@ -54,7 +54,7 @@ const postsByCategory = CATEGORIES.reduce((acc, category) => {
 										)}
 										<div class="post-content">
 											<h3 class="post-title">
-												<a href={`/blog/${post.slug}/`}>{post.data.title}</a>
+												<a href={`/blog/${post.data.slug || post.id}/`}>{post.data.title}</a>
 											</h3>
 											<p class="post-description">{post.data.description}</p>
 											<div class="post-meta">
