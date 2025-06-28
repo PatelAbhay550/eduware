@@ -14,7 +14,7 @@ Get RRB NTPC General Science (GS) questions and answers to boost your preparatio
 
 ## Questions
 
-**1.** How many members are appointed by the president of India in the lok Sabha from Anglo-Indian Community are:
+**1.** How many members were appointed by the president of India in the lok Sabha from Anglo-Indian Community were:
 - A) 2
 - B) 3
 - C) 4
