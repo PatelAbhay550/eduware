@@ -10,6 +10,7 @@ readingTime: 8
 slug: 'rrb-ntpc-gs-top-questions'
 ---
 
+## RRB NTPC
 Get RRB NTPC General Science (GS) questions and answers to boost your preparation. This guide covers important topics, question patterns, and solving techniques.
 
 ## Questions
