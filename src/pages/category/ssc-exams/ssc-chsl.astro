@@ -601,8 +601,9 @@ const syllabusData = {
 		const tabPanes = document.querySelectorAll('.tab-pane');
 
 		tabButtons.forEach(button => {
-			button.addEventListener('click', function() {
+			button.addEventListener('click', function(this: HTMLElement) {
 				const tabId = this.getAttribute('data-tab');
+				if (!tabId) return;
 				
 				// Remove active class from all buttons and panes
 				tabButtons.forEach(btn => {

@@ -308,14 +308,15 @@ const questionsByDifficulty = {
 				filterTabs.forEach(t => t.classList.remove('active'));
 				tab.classList.add('active');
 				
-				const filter = tab.dataset.filter;
+				const filter = (tab as HTMLElement).dataset.filter;
 				
 				// Filter questions
 				questionCards.forEach(card => {
-					if (filter === 'all' || card.dataset.difficulty === filter) {
-						card.style.display = 'block';
+					const htmlCard = card as HTMLElement;
+					if (filter === 'all' || htmlCard.dataset.difficulty === filter) {
+						htmlCard.style.display = 'block';
 					} else {
-						card.style.display = 'none';
+						htmlCard.style.display = 'none';
 					}
 				});
 			});

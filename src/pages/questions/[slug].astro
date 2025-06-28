@@ -3,17 +3,18 @@ import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import FormattedDate from '../../components/FormattedDate.astro';
 import { Image } from 'astro:assets';
+import { render } from 'astro:content';
 
 export async function getStaticPaths() {
-	const questions = await getCollection('questions');
-	return questions.map((question) => ({
-		params: { slug: question.data.slug || question.id },
-		props: question,
-	}));
+    const questions = await getCollection('questions');
+    return questions.map((question) => ({
+        params: { slug: question.data.slug || question.id },
+        props: question,
+    }));
 }
 
 const question = Astro.props;
-const { Content } = await question.render();
+const { Content } = await render(question);
 const { title, description, pubDate, updatedDate, heroImage, category, tags, difficulty } = question.data;
 
 const keywords = tags || [];

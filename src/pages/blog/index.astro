@@ -344,14 +344,15 @@ const usedCategories = [...new Set(posts.map(post => post.data.category).filter(
 				filterBtns.forEach(b => b.classList.remove('active'));
 				btn.classList.add('active');
 				
-				const category = btn.dataset.category;
+				const category = (btn as HTMLElement).dataset.category;
 				
 				// Filter posts
 				postCards.forEach(card => {
-					if (category === 'all' || card.dataset.category === category) {
-						card.style.display = 'block';
+					const htmlCard = card as HTMLElement;
+					if (category === 'all' || htmlCard.dataset.category === category) {
+						htmlCard.style.display = 'block';
 					} else {
-						card.style.display = 'none';
+						htmlCard.style.display = 'none';
 					}
 				});
 			});

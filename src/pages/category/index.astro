@@ -17,7 +17,7 @@ const postsByCategory = CATEGORIES.reduce((acc, category) => {
 <Layout 
 	title="Browse by Category - Eduware" 
 	description="Explore our educational content organized by topics including Programming, Web Development, Data Science, and more."
-	keywords={CATEGORIES}
+	keywords={[...CATEGORIES]}
 >
 	<div class="container">
 		<header class="page-header">

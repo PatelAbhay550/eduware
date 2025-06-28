@@ -1171,7 +1171,9 @@ const jobNotifications = [
 		
 		tabBtns.forEach(btn => {
 			btn.addEventListener('click', () => {
-				const targetTab = btn.dataset.tab;
+				const targetTab = (btn as HTMLElement).dataset.tab;
+				
+				if (!targetTab) return;
 				
 				// Remove active class from all tabs and panes
 				tabBtns.forEach(b => b.classList.remove('active'));
