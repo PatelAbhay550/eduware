@@ -48,13 +48,13 @@ Get RRB NTPC General Science (GS) questions and answers to boost your preparatio
 
 **Answer:** B) 2 years
 
-**5.** When was Gandhi Samiti and Darshan Samiti (GSDS) formed?
+**5.** When was Gandhi Smriti and Darshan Samiti (GSDS) formed?
 - A) 1969
 - B) 1970
 - C) 1971
-- D) 1972
+- D) 1984
 
-**Answer:** A) 1969
+**Answer:** D) 1984
 
 **6.** The Southernmost tip of Indian territory is?
 - A) Kanyakumari
@@ -70,7 +70,7 @@ Get RRB NTPC General Science (GS) questions and answers to boost your preparatio
 - C) 1967
 - D) 1969
 
-**Answer:** C) 1967
+**Answer:** B) 1965
 
 **8.** As of 2020, the only person who has received the Nobel Prize for Physics twice is:
 - A) Albert Einstein
