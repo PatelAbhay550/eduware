@@ -95,7 +95,7 @@ const imageUrl = new URL(image.src, Astro.url);
 <meta name="msapplication-TileColor" content="#3b82f6" />
 
 <!-- Schema.org JSON-LD -->
-<script type="application/ld+json" set:html={JSON.stringify({
+<script type="application/ld+json" is:inline set:html={JSON.stringify({
   "@context": "https://schema.org",
   "@type": type === 'article' ? 'Article' : 'WebSite',
   "name": fullTitle,
