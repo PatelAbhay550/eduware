@@ -222,7 +222,7 @@ Get RRB NTPC General Science (GS) questions and answers to boost your preparatio
 - C) Ladakh
 - D) Uttarakhand
 
-**Answer:** C) Amravati
+**Answer:** A) Amravati
 
 **27.** In telecom field, ISP stands for:
 - A) Internet Service Provider
