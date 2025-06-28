@@ -1,6 +1,6 @@
 ---
 title: 'Top 40 RRB NTPC GS Questions'
-description: 'Prepare for RRB NTPC General Science (GS) with these top 40 questions. Enhance your knowledge and boost your exam readiness with detailed answers and explanations.'
+description: 'Prepare for RRB NTPC General Science (GS) with these top 40 questions. Enhance your knowledge and boost your exam readiness.'
 pubDate: 'June 27, 2025'
 heroImage: '../../assets/blog-placeholder-3.png'
 category: 'RRB Exams'
