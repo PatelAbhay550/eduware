@@ -3,6 +3,7 @@ import type { CollectionEntry } from 'astro:content';
 import Layout from './Layout.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import SocialShare from '../components/SocialShare.astro';
+import BreadcrumbSchema from '../components/BreadcrumbSchema.astro';
 import { Image } from 'astro:assets';
 
 type Props = CollectionEntry<'blog'>['data'];
@@ -13,6 +14,13 @@ if (category) keywords.push(category);
 
 // Get the current URL for sharing
 const currentUrl = new URL(Astro.url.pathname, Astro.site).toString();
+
+// Breadcrumb data
+const breadcrumbItems = [
+  { name: 'Home', url: '/' },
+  { name: 'Blog', url: '/blog' },
+  { name: title, url: Astro.url.pathname }
+];
 ---
 
 <Layout 
@@ -24,12 +32,22 @@ const currentUrl = new URL(Astro.url.pathname, Astro.site).toString();
 	modifiedTime={updatedDate?.toISOString()}
 	type="article"
 >
+	<!-- Breadcrumb Schema -->
+	<BreadcrumbSchema items={breadcrumbItems} />
+	
 	<div class="container-narrow">
 		<article class="blog-post">
 			<header class="blog-header">
 				{heroImage && (
 					<div class="hero-image">
-						<Image src={heroImage} alt={title} />
+						<Image 
+							src={heroImage} 
+							alt={title}
+							width={800}
+							height={400}
+							format="webp"
+							quality={85}
+						/>
 					</div>
 				)}
 				<div class="blog-meta">

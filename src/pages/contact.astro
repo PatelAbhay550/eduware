@@ -1,6 +1,46 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import { CONTACT_EMAIL, GITHUB_URL } from '../consts';
+
+// FAQ structured data
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What exams do you cover?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We cover all major competitive exams including SSC (CGL, CHSL, MTS), Banking (IBPS, SBI), Railway (RRB), UPSC, State PSCs, Police exams, and more."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are the study materials free?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes! All our study materials, mock tests, and practice questions are completely free. Our mission is to make quality exam preparation accessible to everyone."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often is content updated?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We regularly update our content based on the latest exam patterns, syllabus changes, and current affairs. New questions and materials are added weekly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I suggest topics or improvements?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely! We welcome suggestions and feedback. Email us with your ideas, and we'll work to implement valuable suggestions for the community."
+      }
+    }
+  ]
+};
 ---
 
 <Layout 
@@ -8,6 +48,10 @@ import { CONTACT_EMAIL, GITHUB_URL } from '../consts';
 	description="Get in touch with Eduware. We're here to help you with your competitive exam preparation journey."
 	keywords={['contact', 'support', 'help', 'exam preparation', 'competitive exams']}
 >
+	<!-- FAQ Schema -->
+	<script type="application/ld+json" is:inline set:html={JSON.stringify(faqSchema)}>
+	</script>
+	
 	<div class="container">
 		<header class="page-header">
 			<h1>Contact Us</h1>

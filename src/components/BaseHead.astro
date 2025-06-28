@@ -4,6 +4,7 @@
 import '../styles/global.css';
 import { SITE_TITLE, SITE_DESCRIPTION, SITE_URL, SITE_AUTHOR } from '../consts';
 import FallbackImage from '../assets/fallback.png';
+import PerformanceMonitor from './PerformanceMonitor.astro';
 import type { ImageMetadata } from 'astro';
 
 interface Props {
@@ -60,7 +61,7 @@ const imageUrl = new URL(image.src, Astro.url);
   }
   
   window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
+  function gtag(...args: any[]){window.dataLayer.push(args);}
   gtag('js', new Date());
 
   gtag('config', 'G-9MS823ZN2S');
@@ -110,6 +111,30 @@ const imageUrl = new URL(image.src, Astro.url);
 <meta name="theme-color" content="#3b82f6" />
 <meta name="msapplication-TileColor" content="#3b82f6" />
 
+<!-- Additional meta tags for better SEO -->
+<meta name="format-detection" content="telephone=no" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="default" />
+<meta name="apple-mobile-web-app-title" content={SITE_TITLE} />
+
+<!-- Geo location (if applicable) -->
+<meta name="geo.region" content="IN" />
+<meta name="geo.country" content="India" />
+
+<!-- Language -->
+<meta name="language" content="en" />
+<meta name="content-language" content="en" />
+
+<!-- Revisit after (for search engines) -->
+<meta name="revisit-after" content="7 days" />
+
+<!-- Distribution -->
+<meta name="distribution" content="global" />
+
+<!-- Rating -->
+<meta name="rating" content="general" />
+
 <!-- Schema.org JSON-LD -->
 <script type="application/ld+json" is:inline set:html={JSON.stringify({
   "@context": "https://schema.org",
@@ -130,7 +155,29 @@ const imageUrl = new URL(image.src, Astro.url);
       "url": new URL('/logo_main.svg', Astro.site).toString()
     }
   },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": canonicalURL.toString()
+  },
+  "headline": fullTitle,
+  "inLanguage": "en-US",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": new URL('/?q={search_term_string}', Astro.site).toString()
+    },
+    "query-input": "required name=search_term_string"
+  },
   ...(publishedTime && { "datePublished": publishedTime }),
-  ...(modifiedTime && { "dateModified": modifiedTime })
+  ...(modifiedTime && { "dateModified": modifiedTime }),
+  ...(type === 'website' && {
+    "sameAs": [
+      "https://github.com/PatelAbhay550"
+    ]
+  })
 })}>
 </script>
+
+<!-- Performance Monitoring -->
+<PerformanceMonitor />

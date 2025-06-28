@@ -44,7 +44,14 @@ if (difficulty) keywords.push(difficulty);
 				
 				{heroImage && (
 					<div class="hero-image">
-						<Image src={heroImage} alt={title} />
+						<Image 
+							src={heroImage} 
+							alt={title}
+							width={800}
+							height={400}
+							format="webp"
+							quality={85}
+						/>
 					</div>
 				)}
 				
