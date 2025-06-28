@@ -5,7 +5,7 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://examprep-pro.com',
+	site: 'https://eduware.vercel.app',
 	integrations: [mdx(), sitemap()],
 	markdown: {
 		shikiConfig: {
