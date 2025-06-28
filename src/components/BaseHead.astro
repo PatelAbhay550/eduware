@@ -95,14 +95,13 @@ const imageUrl = new URL(image.src, Astro.url);
 <meta name="msapplication-TileColor" content="#3b82f6" />
 
 <!-- Schema.org JSON-LD -->
-<script type="application/ld+json">
-{
+<script type="application/ld+json" set:html={JSON.stringify({
   "@context": "https://schema.org",
   "@type": type === 'article' ? 'Article' : 'WebSite',
   "name": fullTitle,
   "description": description,
-  "url": canonicalURL,
-  "image": imageUrl,
+  "url": canonicalURL.toString(),
+  "image": imageUrl.toString(),
   "author": {
     "@type": "Organization",
     "name": author
@@ -112,10 +111,10 @@ const imageUrl = new URL(image.src, Astro.url);
     "name": SITE_TITLE,
     "logo": {
       "@type": "ImageObject",
-      "url": new URL('/logo_main.svg', Astro.site)
+      "url": new URL('/logo_main.svg', Astro.site).toString()
     }
   },
   ...(publishedTime && { "datePublished": publishedTime }),
   ...(modifiedTime && { "dateModified": modifiedTime })
-}
+})}>
 </script>
