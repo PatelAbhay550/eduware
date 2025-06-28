@@ -10,8 +10,6 @@ author: "Eduware Team"
 heroImage: '../../assets/ssc-cgl-prepration.png'
 ---
 
-# Complete SSC CGL 2025 Preparation Strategy
-
 ## Introduction
 
 The Staff Selection Commission Combined Graduate Level (SSC CGL) is one of the most sought-after competitive exams in India. With over 25 lakh applications annually for around 7,000-8,000 vacancies, the competition is intense. This comprehensive guide will help you create an effective preparation strategy for SSC CGL 2025.
