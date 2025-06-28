@@ -197,7 +197,7 @@ Get RRB NTPC General Science (GS) questions and answers to boost your preparatio
 - C) 24
 - D) 26
 
-**Answer:** B) 22
+**Answer:** C) 24
 
 **24.** In which year was the construction of Jama Masjid of Delhi completed?
 - A) 1644
