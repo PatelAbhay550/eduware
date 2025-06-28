@@ -145,12 +145,12 @@ Get RRB NTPC General Science (GS) questions and answers to boost your preparatio
 **Answer:** B) Formic acid
 
 **17.** Where was the first British presidency established in India?
-- A) Madras
+- A) Surat
 - B) Bombay
 - C) Calcutta
 - D) Delhi
 
-**Answer:** A) Madras
+**Answer:** A) Surat
 
 **18.** Where is the Sambhar Lake Situated?
 - A) Gujarat
@@ -198,7 +198,7 @@ Get RRB NTPC General Science (GS) questions and answers to boost your preparatio
 - C) 24
 - D) 26
 
-**Answer:** B) 22
+**Answer:** C) 24
 
 **24.** In which year was the construction of Jama Masjid of Delhi completed?
 - A) 1644
@@ -217,12 +217,12 @@ Get RRB NTPC General Science (GS) questions and answers to boost your preparatio
 **Answer:** A) Communication satellite
 
 **26.** As of 2024, where is India's newest High Court built?
-- A) Andhra Pradesh
+- A) Amravati
 - B) Telangana
 - C) Ladakh
 - D) Uttarakhand
 
-**Answer:** C) Ladakh
+**Answer:** C) Amravati
 
 **27.** In telecom field, ISP stands for:
 - A) Internet Service Provider
