@@ -1,5 +1,6 @@
 import { submitToIndexNow, submitAllUrlsToIndexNow } from '../../utils/indexnow.js';
 
+
 export async function POST({ request }) {
   try {
     const body = await request.json();
