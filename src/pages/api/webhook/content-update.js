@@ -1,4 +1,4 @@
-import { submitUrlToIndexNow } from '../../utils/indexnow.js';
+import { submitUrlToIndexNow } from "../../../utils/indexnow";
 import { SITE_URL } from '../../consts';
 
 export async function POST({ request }) {
