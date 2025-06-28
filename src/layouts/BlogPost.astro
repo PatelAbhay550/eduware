@@ -2,6 +2,7 @@
 import type { CollectionEntry } from 'astro:content';
 import Layout from './Layout.astro';
 import FormattedDate from '../components/FormattedDate.astro';
+import SocialShare from '../components/SocialShare.astro';
 import { Image } from 'astro:assets';
 
 type Props = CollectionEntry<'blog'>['data'];
@@ -9,6 +10,9 @@ type Props = CollectionEntry<'blog'>['data'];
 const { title, description, pubDate, updatedDate, heroImage, category, tags } = Astro.props;
 const keywords = tags || [];
 if (category) keywords.push(category);
+
+// Get the current URL for sharing
+const currentUrl = new URL(Astro.url.pathname, Astro.site).toString();
 ---
 
 <Layout 
@@ -47,6 +51,13 @@ if (category) keywords.push(category);
 			<div class="blog-content">
 				<slot />
 			</div>
+			
+			<!-- Social Sharing -->
+			<SocialShare 
+				title={title}
+				description={description}
+				url={currentUrl}
+			/>
 			
 			{tags && tags.length > 0 && (
 				<footer class="blog-footer">
