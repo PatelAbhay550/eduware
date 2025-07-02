@@ -2,7 +2,7 @@
 title: 'All 18 Biosphere Reserves of India (Updated 2025)'
 description: 'Complete List of all 18 Biosphere reserves of India, including their States.'
 pubDate: 'July 01, 2025'
-heroImage: '../../assets/airports-in-india.webp'
+heroImage: '../../assets/20250702_202924.jpg'
 category: 'SSC Exams'
 tags: ["SSC CGL", "List of biosphere reserves", "biosphere reserves", "18 biosphere reserves"]
 featured: false
