@@ -10,9 +10,8 @@ readingTime: 6
 slug: 'list-of-18-biosphere-reserves-of-india'
 ---
 
-India has a total of **18 biosphere reserves**, officially designated regions that protect ecosystems, promote biodiversity, and enable sustainable coexistence between humans and nature. Spread across various states and union territories, these reserves encompass forests, mountains, islands, coastal areas, and deserts.
+India has a total of **18 biosphere reserves**, officially designated regions that protect ecosystems, promote biodiversity, and enable sustainable coexistence between humans and nature. Here's the list of all 18 of these:
 
-To understand India's environmental diversity, it is essential to explore its biosphere network, especially those designated under **UNESCO’s Man and Biosphere (MAB) Programme**.
 
 [Read also: All 34 International Airports in India](https://eduware.vercel.app/blog/all-34-international-airports-in-india/)
 
@@ -63,7 +62,8 @@ Out of the 18 reserves, **12 are recognized** under **UNESCO’s Man and Biosphe
 | Panna                        | Madhya Pradesh                         | 2020                   |
 
 ---
-
+![List of all 18 Biosphere Reserves](https://github.com/PatelAbhay550/eduware/blob/main/public/IMG-20250702-WA0012.jpg?raw=true)
+![List of all 18 Biosphere Reserves](https://github.com/PatelAbhay550/eduware/blob/main/public/IMG-20250702-WA0013.jpg?raw=true)
 ## State-wise Distribution of Biosphere Reserves
 
 - **Tamil Nadu** (3): Nilgiri, Gulf of Mannar, Agasthyamalai  
