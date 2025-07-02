@@ -2,7 +2,7 @@
 title: 'Satavahana Dynasty - Free SSC UPSC short notes'
 description: 'Satavahanas were a ruling dynasty in Deccan and Central India. Get free SSC and UPSC notes on them.'
 pubDate: 'July 01, 2025'
-heroImage: '../../assets/airports-in-india.webp'
+heroImage:'../../assets/20250702_141914.jpg'
 category: 'SSC Exams'
 tags: ["SSC CGL", "Satavahanas", "Satavahan Dynasty", "Government Jobs"]
 featured: false
