@@ -38,7 +38,7 @@ UNESCO World Heritage Sites are landmarks or areas recognized by the United Nati
 
 ## Complete List of Sites in India (43)
 
-| #   | Site Name                                                     | State(s)/UT(s)                                          | Year |
+| #   | Site Name                                                     | State/UT                                          | Year |
 |-----|---------------------------------------------------------------|---------------------------------------------------------|------|
 | 1   | Agra Fort                                                     | Uttar Pradesh                                          | 1983 |
 | 2   | Ajanta Caves                                                  | Maharashtra                                           | 1983 |
