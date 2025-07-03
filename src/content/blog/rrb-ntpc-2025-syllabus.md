@@ -15,10 +15,10 @@ slug: 'rrb-ntpc-2025-syllabus'
 ## Table of Contents
 1. [Overview](#overview-overview)  
 2. [Exam Pattern](#exam-pattern-exam-pattern)  
-   - [CBT 1](#cbt-1-cbt-1)  
-   - [CBT 2](#cbt-2-cbt-2)  
+   - [CBT 1](#cbt1-cbt-1)  
+   - [CBT 2](#cbt2-cbt-2)  
 3. [Detailed Syllabus](#detailed-syllabus-detailed-syllabus)  
-4. [Topic‑wise Weightage](#topic-wise-weightage-topic)  
+4. [Topic‑wise Weightage](#topic-wise-weightage-topic-topic-wise-weightage)  
 5. [Preparation Strategy](#preparation-strategy-prepration-strategy)  
 6. [Previous Year & PYQ Analysis](#pyq-analysis-pyq-analysis)  
 7. [Conclusion](#conclusion-conclusion)  
