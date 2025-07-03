@@ -18,7 +18,7 @@ slug: 'rrb-ntpc-2025-syllabus'
    - [CBT 1](#cbt1-cbt-1)  
    - [CBT 2](#cbt2-cbt-2)  
 3. [Detailed Syllabus](#detailed-syllabus-detailed-syllabus)  
-4. [Topic‑wise Weightage](#topic-wise-weightage-topic-wise-weightage)  
+4. [Topic‑wise Weightage](#topicwise-weightage-topic-wise-weightage)  
 5. [Preparation Strategy](#preparation-strategy-preparation-strategy)  
 6. [Previous Year & PYQ Analysis](#previous-year--pyq-analysis-pyq-analysis)  
 7. [Conclusion](#conclusion-conclusion)  
