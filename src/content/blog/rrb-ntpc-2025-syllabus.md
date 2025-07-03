@@ -13,16 +13,16 @@ slug: 'rrb-ntpc-2025-syllabus'
 [⬇️ Download RRB NTPC 2025 Syllabus PDF](https://www.careerpower.in/blog/wp-content/uploads/2025/04/09114402/rrb-ntpc-syllabus.pdf)
 
 ## Table of Contents
-1. [Overview](#overview)  
-2. [Exam Pattern](#exam-pattern)  
-   - [CBT 1](#cbt-1)  
-   - [CBT 2](#cbt-2)  
-3. [Detailed Syllabus](#detailed-syllabus)  
-4. [Topic‑wise Weightage](#topic-wise-weightage)  
-5. [Preparation Strategy](#preparation-strategy)  
-6. [Previous Year & PYQ Analysis](#pyq-analysis)  
-7. [Conclusion](#conclusion)  
-8. [FAQs](#faqs)  
+1. [Overview](#overview-overview)  
+2. [Exam Pattern](#exam-pattern-exam-pattern)  
+   - [CBT 1](#cbt-1-cbt-1)  
+   - [CBT 2](#cbt-2-cbt-2)  
+3. [Detailed Syllabus](#detailed-syllabus-detailed-syllabus)  
+4. [Topic‑wise Weightage](#topic-wise-weightage-topic)  
+5. [Preparation Strategy](#preparation-strategy-prepration-strategy)  
+6. [Previous Year & PYQ Analysis](#pyq-analysis-pyq-analysis)  
+7. [Conclusion](#conclusion-conclusion)  
+8. [FAQs](#faqs-faqs)  
 
 ---
 
