@@ -28,9 +28,9 @@ slug: 'rrb-ntpc-2025-syllabus'
 
 ## Overview {#overview}
 
-- RRB NTPC 2025 (CEN 05/2024) offers **11,558 graduate‑level** and **3,445 undergraduate‑level** posts.  
+- RRB NTPC 2025 (CEN 05/2024) offers a total of **11588** vacancies with **8,113 graduate‑level** and **3,445 undergraduate‑level** posts.  
 - **Graduate CBT‑1:**  5 – 24 June 2025  
-- **Undergraduate CBT‑1:** 29 June – 21 July 2025  
+- **Undergraduate CBT‑1:** 07 August – 08 September 2025  
 - Selection process: CBT‑1 → CBT‑2 → Skill Test (CBAT / Typing as applicable).
 
 ---
