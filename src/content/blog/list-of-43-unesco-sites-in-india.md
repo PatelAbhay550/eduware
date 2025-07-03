@@ -87,16 +87,92 @@ UNESCO World Heritage Sites are landmarks or areas recognized by the United Nati
 ---
 
 ## Statewise UNESCO Sites
+Here's the list of UNESCO world heritage sites in India grouped by States: 
 
-- **Uttar Pradesh** – Agra Fort, Taj Mahal, Fatehpur Sikri  
-- **Maharashtra** – Ajanta, Ellora, Elephanta, CST, Victorian Gothic & Art Deco  
-- **Assam** – Kaziranga, Manas, Moidams  
-- **Gujarat** – Champaner, Rani‑ki‑Vav, Historic Ahmedabad, Dholavira  
-- **Rajasthan** – Keoladeo, Jaipur City, Hill Forts  
-- **West Bengal** – Sundarbans, Santiniketan  
-- **Bihar** – Bodh Gaya, Nalanda  
-- **Delhi** – Humayun’s Tomb, Qutb Minar, Red Fort  
-*(remaining states omitted for brevity—complete list includes all across 29 states/UTs)*
+### Assam
+- Kaziranga National Park
+- Manas Wildlife Sanctuary
+- Moidams – Ahom Dynasty Burial Mounds
+
+### Bihar
+- Mahabodhi Temple
+- Nalanda Mahavihara
+
+### Chandigarh
+- Le Corbusier’s Capitol Complex
+
+### Delhi
+- Humayun’s Tomb
+- Qutb Minar
+- Red Fort
+
+### Goa
+- Churches and Convents of Goa
+
+### Gujarat
+- Champaner–Pavagadh Park
+- Rani‑ki‑Vav
+- Ahmedabad City
+- Dholavira
+
+### Himachal Pradesh
+- Great Himalayan National Park
+- Kalka–Shimla Railway
+
+### Karnataka
+- Hampi Monuments
+- Pattadakal Monuments
+- Sacred Ensembles of Hoysalas
+- Western Ghats (shared)
+
+### Kerala
+- Western Ghats (shared)
+
+### Maharashtra
+- Ajanta & Ellora Caves
+- Elephanta Caves
+- CST Mumbai
+- Victorian Gothic Mumbai
+- Western Ghats (shared)
+
+### Madhya Pradesh
+- Khajuraho Monuments
+- Sanchi Monuments
+- Bhimbetka Shelters
+
+### Odisha
+- Sun Temple, Konark
+
+### Rajasthan
+- Jantar Mantar
+- Hill Forts
+- Keoladeo National Park
+- Jaipur City
+
+### Sikkim
+- Khangchendzonga National Park
+
+### Tamil Nadu
+- Mahabalipuram Monuments
+- Great Living Chola Temples
+- Nilgiri Railway
+- Western Ghats (shared)
+
+### Telangana
+- Ramappa Temple
+
+### Uttar Pradesh
+- Agra Fort
+- Taj Mahal
+- Fatehpur Sikri
+
+### Uttarakhand
+- Nanda Devi & Valley of Flowers
+
+### West Bengal
+- Sundarbans National Park
+- Darjeeling Railway
+- Santiniketan
 
 ---
 
@@ -156,4 +232,4 @@ India’s 43 UNESCO World Heritage Sites are a testament to its exceptional cult
 
 ---
 
-✅ Share this with friends preparing for SSC/UPSC or planning a heritage-filled trip across India!
+✅ Share this with friends preparing for SSC or planning a heritage-filled trip across India!
