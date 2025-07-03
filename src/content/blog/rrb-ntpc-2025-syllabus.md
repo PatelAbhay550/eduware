@@ -1,5 +1,5 @@
 ---
-title: 'RRB NTPC 2025 Syllabus PDF: Detailed CBT 1 & 2 Exam Pattern, Weightage'
+title: 'RRB NTPC 2025 Syllabus PDF: Detailed CBT 1 & 2 Exam Pattern, Weightage, Exam Date'
 description: 'Comprehensive RRB NTPC 2025 syllabus guide covering CBT 1 and CBT 2 exam patterns with essential topics for preparation'
 pubDate: 'June 28, 2025'
 heroImage: '../../assets/rrb-ntpc-2025-syllabus.webp'
