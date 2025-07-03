@@ -9,6 +9,36 @@ featured: false
 readingTime: 6
 slug: 'rrb-ntpc-2025-syllabus'
 ---
+Download RRB NTPC 2025 Syllabus PDF for CBT 1 & 2. Complete topic-wise weightage, exam pattern.
+
+### Table of Contents
+1. [Introduction to RRB NTPC Exam] (#introduction)
+
+2. [Exam Pattern] (#exam-pattern)
+
+[CBT 1 Pattern] (#cbt1-pattern)
+
+[CBT 2 Pattern] (#cbt2-pattern)
+
+[Skill Test Requirements] (#skill-test)
+
+3. [Detailed Syllabus] (#detailed-syllabus)
+
+[Mathematics] (#mathematics)
+
+[General Intelligence & Reasoning](#reasoning)
+
+[General Awareness] (#general-awareness)
+
+4. [Topic-wise Weightage] (#weightage)
+
+5. [Post-specific Requirements] (#post-requirements)
+
+6. [Preparation Strategy] (#preparation)
+
+7. [Previous Year Analysis] (#previous-year)
+
+8. [FAQs](#faqs)
 
 ## RRB NTPC 2025 Syllabus Overview
 
