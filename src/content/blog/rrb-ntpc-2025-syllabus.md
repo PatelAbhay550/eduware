@@ -10,7 +10,7 @@ readingTime: 6
 slug: 'rrb-ntpc-2025-syllabus'
 ---
 
-[⬇️ Download RRB NTPC 2025 Syllabus PDF](https://www.careerpower.in/blog/wp-content/uploads/2025/04/09114402/rrb-ntpc-syllabus.pdf){.btn-primary .my-4}
+[⬇️ Download RRB NTPC 2025 Syllabus PDF](https://www.careerpower.in/blog/wp-content/uploads/2025/04/09114402/rrb-ntpc-syllabus.pdf)
 
 ## Table of Contents
 1. [Overview](#overview)  
