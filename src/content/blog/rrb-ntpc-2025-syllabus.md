@@ -39,7 +39,7 @@ slug: 'rrb-ntpc-2025-syllabus'
 
 ## Exam Pattern {#exam-pattern}
 
-### CBT 1 {#cbt-1}
+### CBT 1 Exam Pattern for RRB NTPC 2025 {#cbt-1}
 
 | Parameter | Details |
 |-----------|---------|
@@ -49,7 +49,7 @@ slug: 'rrb-ntpc-2025-syllabus'
 | Sections | Maths 30, Reasoning 30, GA 40 |
 | Negative Marking | ⅓ per wrong answer |
 
-### CBT 2 {#cbt-2}
+### CBT 2 Exam Pattern for RRB NTPC 2025 {#cbt-2}
 
 | Parameter | Details |
 |-----------|---------|
