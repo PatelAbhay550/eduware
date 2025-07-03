@@ -12,7 +12,7 @@ slug: 'rrb-ntpc-2025-syllabus'
 
 ## RRB NTPC 2025 Syllabus Overview
 
-The Railway Recruitment Board (RRB) organizes the Non-Technical Popular Categories (NTPC) examination under CEN 05/2024. This recruitment drive offers positions for both graduate and undergraduate candidates, with 8113 graduate-level vacancies and 3445 undergraduate-level openings.
+The Railway Recruitment Board (RRB) organizes the Non-Technical Popular Categories (NTPC) examination under CEN 05/2024. This recruitment drive offers positions for both graduate and undergraduate candidates, with 8113 graduate-level vacancies and 3445 undergraduate-level openings.Get Railway rrb ntpc syllabus 2025 below.
 
 **Examination Schedule:**
 - Graduate-level CBT 1: June 5-24, 2025 (11,558 positions)
