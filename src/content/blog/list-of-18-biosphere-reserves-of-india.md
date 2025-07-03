@@ -21,7 +21,7 @@ India is home to **18 official biosphere reserves**, each representing a unique 
 1. [What is a Biosphere Reserve?](#what-is-a-biosphere-reserve)
 2. [List of All 18 Biosphere Reserves in India](#list-of-all-18-biosphere-reserves-in-india)
 3. [UNESCO Recognized Biosphere Reserves](#unesco-recognized-biosphere-reserves)
-4. [Map of Biosphere Reserves (Coming Soon)](#)
+4. [Map of Biosphere Reserves](#map-of-biosphere-reserves)
 5. [FAQs](#faqs)
 6. [Conclusion](#conclusion)
 
@@ -87,7 +87,7 @@ As of 2025, **12 Indian Biosphere Reserves** are recognized under the **UNESCOâ€
 
 ## Map of Biosphere Reserves
 Here's the map of all 18 biosphere reserves of India:
-![map of biosphere reserves of india]("https://upload.wikimedia.org/wikipedia/commons/5/5c/Biosphere_Reserves_in_India.png")
+![map of biosphere reserves of india](https://upload.wikimedia.org/wikipedia/commons/5/5c/Biosphere_Reserves_in_India.png)
 
 ## FAQs
 
