@@ -85,6 +85,10 @@ As of 2025, **12 Indian Biosphere Reserves** are recognized under the **UNESCOâ€
 
 ---
 
+## Map of Biosphere Reserves
+Here's the map of all 18 biosphere reserves of India:
+![map of biosphere reserves of india]("https://upload.wikimedia.org/wikipedia/commons/5/5c/Biosphere_Reserves_in_India.png")
+
 ## FAQs
 
 ### ðŸ”¹ How many biosphere reserves are there in India in 2025?
