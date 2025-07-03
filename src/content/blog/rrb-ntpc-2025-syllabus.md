@@ -119,6 +119,6 @@ The curriculum remains consistent across both examination stages, with variation
 
 ---
 
-## Download RRB NTPC 2025 Syllabus PDF
-You can download the complete RRB NTPC 2025 syllabus in PDF format for offline reference. This document includes detailed subject-wise topics and examination patterns.
+## RRB NTPC Syllabus 2025 pdf Download
+You can download the complete rrb ntpc syllabus 2025 cbt 1 and rrb ntpc syllabus 2025 cbt 2. This document includes detailed subject-wise topics and examination patterns.
 [Download RRB NTPC 2025 Syllabus PDF](https://www.careerpower.in/blog/wp-content/uploads/2025/04/09114402/rrb-ntpc-syllabus.pdf)
