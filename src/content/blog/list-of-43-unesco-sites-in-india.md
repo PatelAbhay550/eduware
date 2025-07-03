@@ -1,5 +1,5 @@
 ---
-title: 'All 43 UNESCO World Heritage Sites in India (Updated 2025)'
+title: 'State-Wise List of UNESCO World Heritage Sites in India (Updated 2025)'
 description: 'Complete list of all 43 UNESCO World Heritage Sites in India with categories and years.'
 pubDate: 'July 03, 2025'
 heroImage: '../../assets/unesco-india-heritage.jpg'
