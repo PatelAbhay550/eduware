@@ -1,6 +1,6 @@
 ---
 title: 'Top 10 Highest Test Score by a Batsman (Updated List)'
-description: 'List of all 34 international airports in India, including their States.'
+description: 'The top 10 highest individual Test scores ever, top Indian Test scores including Kohli and Shubman Gill.'
 pubDate: 'July 04, 2025'
 heroImage: '../../assets/airports-in-india.webp'
 category: 'SSC Exams'
