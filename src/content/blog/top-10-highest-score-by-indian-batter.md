@@ -2,7 +2,7 @@
 title: 'Top 10 Highest Test Score by a Batsman (Updated List)'
 description: 'The top 10 highest individual Test scores ever, top Indian Test scores including Kohli and Shubman Gill.'
 pubDate: 'July 04, 2025'
-heroImage: '../../assets/airports-in-india.webp'
+heroImage: '../../assets/Top-10-Highest-Test Score-by-a-Batsman.jpg'
 category: 'SSC Exams'
 tags: ["SSC CGL", "Top 10 Highest Test Score by a Batsman", "india vs england", "Shubman Gill score today"]
 featured: false
