@@ -9,6 +9,11 @@ featured: false
 readingTime: 6
 slug: 'top-10-highest-test-score'
 ---
+**Looking for the highest individual scores in Test cricket history?**
+
+In this post, you'll find the complete list of top 10 Test scores, India's highest Test scores, individual records of Virat Kohli, Shubman Gill, Sachin Tendulkar.
+
+Let’s dive into the legends who rewrote the record books.
 
 ## Table of Contents
 - [What Is the Highest Individual Test Score?](#what-is-the-highest-individual-test-score)
