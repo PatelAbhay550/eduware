@@ -6,7 +6,7 @@ heroImage: "../../assets/kanva-dynasty.jpg"
 category: "SSC Exams"
 tags: ["Indian History", "Magadha", "Ancient India", "Kanva Dynasty", "Dynasties of India"]
 featured: false
-readingTime: "4"
+readingTime: 4
 slug: "kanva-dynasty-with-free-pdf-notes"
 ---
 
