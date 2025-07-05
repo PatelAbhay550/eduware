@@ -1,13 +1,13 @@
 ---
 title: "[Free PDF] The Kanva Dynasty: Notes, Key Facts, Rulers"
 description: "Explore the Kanva Dynasty, a lesser-known Dynasty and get free PDF."
-pubDate: "2025-07-05"
+pubDate: "July 05, 2025"
 heroImage: "../../assets/kanva-dynasty.jpg"
-category: "History"
+category: "SSC Exams"
 tags: ["Indian History", "Magadha", "Ancient India", "Kanva Dynasty", "Dynasties of India"]
-featured: true
+featured: false
 readingTime: "4 min"
-slug: "kanva-dynasty"
+slug: "kanva-dynasty-with-free-pdf-notes"
 ---
 
 
