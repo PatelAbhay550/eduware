@@ -3,7 +3,7 @@ title: "Top Government Jobs After 12th in India (2025 Updated Guide)"
 description: "Explore the best government job opportunities after completing 12th in India. Learn about eligibility, exams, salary, and how to apply."
 pubDate: "July 05, 2025"
 heroImage: "../../assets/government-jobs-after-12th.jpg"
-category: "SSC Exams "
+category: "SSC Exams"
 tags: ["government jobs", "after 12th", "career", "sarkari naukri", "India"]
 featured: false
 readingTime: 4
