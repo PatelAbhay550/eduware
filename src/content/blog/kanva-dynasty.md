@@ -65,7 +65,7 @@ Despite their brief rule, they served as a transitional bridge between the post-
 ---
 
 ## Previous Year Questions on Kanva Dynasty
-**Q1: The capital of Kanva Dynasty was ____.**
+**Q1: The capital of Kanva Dynasty was ____.**  
 A: Pataliputra was the capital of Kanva Dynasty.
 
 **Q2: Who among the following was the founder of the Kanva Dynasty?**  
