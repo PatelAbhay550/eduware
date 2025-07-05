@@ -22,6 +22,7 @@ Bank of Baroda has released notification for recruiting **2,500 Local Bank Offic
 - [Application Fees](#application-fees)
 - [Important Dates](#important-dates)
 - [Salary & Benefits](#salary--benefits)
+- [How to Apply for Bank of Baroda LBO](#how-to-apply-for-bank-of-baroda-lbo-2025)
 - [FAQs](#faqs)
 - [Conclusion](#conclusion)
 
@@ -131,6 +132,39 @@ A total of **2,500 vacancies** are distributed across 18 states/UTs. Here's the 
 - **Bond**: ₹5 Lakh for 3 years (for exiting before bond period)
 
 ---
+
+
+## How to Apply for Bank of Baroda LBO 2025
+
+Follow these steps to complete your application successfully:
+
+1. **Visit the Official Website**:  
+   Go to 👉 [https://www.bankofbaroda.in](https://www.bankofbaroda.in)
+
+2. **Navigate to Careers**:  
+   Scroll to the bottom and click on **Careers > Current Opportunities**.
+
+3. **Find LBO Notification**:  
+   Look for **Advertisement No. BOB/HRM/REC/ADVT/2025/05** and click on **Apply Now**.
+
+4. **Register as New User**:  
+   - Enter your email, phone number, and create login credentials.  
+   - You will receive an OTP for verification.
+
+5. **Fill Application Form**:  
+   - Enter personal details, qualification, experience, and preferred state.  
+   - Upload required documents (photo, signature, ID proof, experience certificate).
+
+6. **Pay the Application Fee**:  
+   Use Debit Card / Credit Card / Net Banking / UPI.
+
+7. **Submit & Print**:  
+   Submit the application and **download/print the form** for reference.
+
+🕒 **Apply between 4th July – 24th July 2025** only.
+
+---
+
 
 ## FAQs
 
