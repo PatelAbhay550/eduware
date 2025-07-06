@@ -34,7 +34,7 @@ The concept of Panchayati Raj has its roots in the ancient Indian system of loca
 - **Constitution (73rd Amendment) Act, 1992**: Inserted Part IX in the Constitution, establishing Panchayati Raj institutions at village, block, and district levels
 
 ## Constitutional Framework: Part IX of the Constitution and Panchayati Raj Provisions
-![Part IX of Indian Constitution](part-ix.jpg)
+![Part IX of Indian Constitution](https://raw.githubusercontent.com/PatelAbhay550/eduware/refs/heads/main/src/assets/part-ix.jpg)
 ### Salient Features of 73rd Constitutional Amendment
 1. **Term Duration**: Five years unless dissolved earlier
 2. **Reservation Policy**: 
