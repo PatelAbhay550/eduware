@@ -2,7 +2,7 @@
 title: "[Free PDF] Panchayati Raj in India - SSC UPSC Notes"
 description: "Panchayats constitute functional institutions of grassroot governance in villages of India. The Balwant Rai Committee (1957) recommended panchayati raj system in India."
 pubDate: "July 05, 2025"
-heroImage: "../../assets/panchayati-raj-in-india.jpg"
+heroImage: "../../assets/panchayati-raj-india.jpg"
 category: "SSC Exams"
 tags: ["Panchayati Raj in India", "panchayats", "municipalities", "Article 243", "India"]
 featured: false
