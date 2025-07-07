@@ -68,7 +68,7 @@ const imageUrl = new URL(image.src, Astro.url);
 </script>
 <!-- SEO Meta Tags -->
 {noindex && <meta name="robots" content="noindex, nofollow" />}
-{!noindex && <meta name="robots" content="index, follow" />}
+{!noindex && <meta name="robots" content="index, follow, max-image-preview:large" />}
 
 <!-- Font preloads -->
 <link rel="preload" href="/fonts/atkinson-regular.woff" as="font" type="font/woff" crossorigin />
