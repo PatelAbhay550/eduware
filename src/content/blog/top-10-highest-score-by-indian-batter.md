@@ -40,12 +40,12 @@ The all-time **highest individual Test innings** is **400* by Brian Lara** again
 | 2    | Matthew Hayden (AUS)       | 380   | Zimbabwe     | 2003 | Perth     |
 | 3    | Brian Lara (WI)            | 375   | England      | 1994 | Antigua   |
 | 4    | Mahela Jayawardene (SL)    | 374   | South Africa | 2006 | Colombo   |
-| 5    | Garry Sobers (WI)          | 365*  | Pakistan     | 1958 | Kingston  |
-| 6    | Len Hutton (ENG)           | 364   | Australia    | 1938 | The Oval  |
-| 7    | Sanath Jayasuriya (SL)     | 340   | India        | 1997 | Colombo   |
-| 8    | Hanif Mohammad (PAK)       | 337   | West Indies  | 1958 | Bridgetown|
-| 9    | Wally Hammond (ENG)        | 336*  | New Zealand  | 1933 | Auckland  |
-| 10   | David Warner (AUS)         | 335*  | Pakistan     | 2019 | Adelaide  |
+| 5    | Wiaan Mulder (SA)    | 367   | Zimbabwe | 2025 | Bulawayo   |
+| 6    | Garry Sobers (WI)          | 365*  | Pakistan     | 1958 | Kingston  |
+| 7    | Len Hutton (ENG)           | 364   | Australia    | 1938 | The Oval  |
+| 8    | Sanath Jayasuriya (SL)     | 340   | India        | 1997 | Colombo   |
+| 9    | Hanif Mohammad (PAK)       | 337   | West Indies  | 1958 | Bridgetown|
+| 10    | Wally Hammond (ENG)        | 336*  | New Zealand  | 1933 | Auckland  |
 
 ---
 
@@ -108,6 +108,8 @@ A: India scored **587**; Shubman Gill made **269**, England were **77/3 at stump
 **Q5. Which Indian captain has the highest Test score in England?**  
 A: Shubman Gill’s 269 is now the highest test score in England.
 
+**Q5. How many runs did Wiaan Mulder score against Zimbabwe?**  
+A: Wiaan Mulder scored 367 runs not out against Zimbabwe in record breaking 2nd test.
 ---
 
 ## Conclusion
