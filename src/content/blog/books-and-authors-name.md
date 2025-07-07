@@ -16,6 +16,7 @@ Books and Authors are an essential part of the General Knowledge section in comp
 - [Important Books by Indian Authors](#important-books-by-indian-authors)
 - [Important Books by Foreign Authors](#important-books-by-foreign-authors)
 - [Download Free PDF of Books and Authors Name](#download-free-pdf-of-books-and-authors-name)
+- [Test Your Knowledge - Books and Authors Quiz](#test-your-knowledge---books-and-authors-quiz)
 
 ## Important Books by Indian Authors
 Here is a list of important books written by Indian authors that are frequently asked in competitive exams:
