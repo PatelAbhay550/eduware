@@ -134,7 +134,7 @@ You can download the free PDF of this list of important books and their authors 
   Download PDF of Books and Authors Name
 </button>
 
-## Quiz on Books and Authors
+
 <div class="quiz-container">
   <div class="quiz-header">
     <h3>Test Your Knowledge - Books and Authors Quiz</h3>
@@ -191,9 +191,173 @@ You can download the free PDF of this list of important books and their authors 
     </div>
   </div>
 
+  <div class="quiz-question" id="question6">
+    <h4>Question 6: "Hind Swaraj" is written by which author?</h4>
+    <div class="options">
+      <label><input type="radio" name="q6" value="a"> Bal Gangadhar Tilak</label>
+      <label><input type="radio" name="q6" value="b"> Mahatma Gandhi</label>
+      <label><input type="radio" name="q6" value="c"> Lala Lajpat Rai</label>
+      <label><input type="radio" name="q6" value="d"> Bhagat Singh</label>
+    </div>
+  </div>
+
+  <div class="quiz-question" id="question7">
+    <h4>Question 7: Who is the author of "The Alchemist"?</h4>
+    <div class="options">
+      <label><input type="radio" name="q7" value="a"> Paulo Coelho</label>
+      <label><input type="radio" name="q7" value="b"> Gabriel Garcia Marquez</label>
+      <label><input type="radio" name="q7" value="c"> Ernest Hemingway</label>
+      <label><input type="radio" name="q7" value="d"> Jorge Luis Borges</label>
+    </div>
+  </div>
+
+  <div class="quiz-question" id="question8">
+    <h4>Question 8: "The Annihilation of Caste" is written by which author?</h4>
+    <div class="options">
+      <label><input type="radio" name="q8" value="a"> Swami Vivekananda</label>
+      <label><input type="radio" name="q8" value="b"> Jyotirao Phule</label>
+      <label><input type="radio" name="q8" value="c"> B.R. Ambedkar</label>
+      <label><input type="radio" name="q8" value="d"> Savitribai Phule</label>
+    </div>
+  </div>
+
+  <div class="quiz-question" id="question9">
+    <h4>Question 9: Who wrote "Pride and Prejudice"?</h4>
+    <div class="options">
+      <label><input type="radio" name="q9" value="a"> Charlotte Bronte</label>
+      <label><input type="radio" name="q9" value="b"> Emily Bronte</label>
+      <label><input type="radio" name="q9" value="c"> Jane Austen</label>
+      <label><input type="radio" name="q9" value="d"> Virginia Woolf</label>
+    </div>
+  </div>
+
+  <div class="quiz-question" id="question10">
+    <h4>Question 10: "Anandmath" is written by which author?</h4>
+    <div class="options">
+      <label><input type="radio" name="q10" value="a"> Rabindranath Tagore</label>
+      <label><input type="radio" name="q10" value="b"> Bankim Chandra Chatterjee</label>
+      <label><input type="radio" name="q10" value="c"> Sarat Chandra Chattopadhyay</label>
+      <label><input type="radio" name="q10" value="d"> Ishwar Chandra Vidyasagar</label>
+    </div>
+  </div>
+
+  <div class="quiz-question" id="question11">
+    <h4>Question 11: Who is the author of "The Great Gatsby"?</h4>
+    <div class="options">
+      <label><input type="radio" name="q11" value="a"> Ernest Hemingway</label>
+      <label><input type="radio" name="q11" value="b"> F. Scott Fitzgerald</label>
+      <label><input type="radio" name="q11" value="c"> William Faulkner</label>
+      <label><input type="radio" name="q11" value="d"> John Steinbeck</label>
+    </div>
+  </div>
+
+  <div class="quiz-question" id="question12">
+    <h4>Question 12: "Abhigyaan Shakuntala" is written by which author?</h4>
+    <div class="options">
+      <label><input type="radio" name="q12" value="a"> Valmiki</label>
+      <label><input type="radio" name="q12" value="b"> Vyasa</label>
+      <label><input type="radio" name="q12" value="c"> Kalidasa</label>
+      <label><input type="radio" name="q12" value="d"> Bharata Muni</label>
+    </div>
+  </div>
+
+  <div class="quiz-question" id="question13">
+    <h4>Question 13: Who wrote "The Art of War"?</h4>
+    <div class="options">
+      <label><input type="radio" name="q13" value="a"> Confucius</label>
+      <label><input type="radio" name="q13" value="b"> Sun Tzu</label>
+      <label><input type="radio" name="q13" value="c"> Lao Tzu</label>
+      <label><input type="radio" name="q13" value="d"> Mencius</label>
+    </div>
+  </div>
+
+  <div class="quiz-question" id="question14">
+    <h4>Question 14: "The Buddha and His Dhamma" is written by which author?</h4>
+    <div class="options">
+      <label><input type="radio" name="q14" value="a"> Swami Vivekananda</label>
+      <label><input type="radio" name="q14" value="b"> B.R. Ambedkar</label>
+      <label><input type="radio" name="q14" value="c"> Mahatma Gandhi</label>
+      <label><input type="radio" name="q14" value="d"> Sri Aurobindo</label>
+    </div>
+  </div>
+
+  <div class="quiz-question" id="question15">
+    <h4>Question 15: Who is the author of "To Kill a Mockingbird"?</h4>
+    <div class="options">
+      <label><input type="radio" name="q15" value="a"> Harper Lee</label>
+      <label><input type="radio" name="q15" value="b"> Toni Morrison</label>
+      <label><input type="radio" name="q15" value="c"> Maya Angelou</label>
+      <label><input type="radio" name="q15" value="d"> Flannery O'Connor</label>
+    </div>
+  </div>
+
   <button class="submit-btn" onclick="checkAnswers()">Submit Quiz</button>
   <div class="result" id="result"></div>
 </div>
+
+<script>
+function checkAnswers() {
+  const answers = {
+    q1: 'b', // Jawaharlal Nehru
+    q2: 'b', // A.P.J. Abdul Kalam
+    q3: 'b', // Arundhati Roy
+    q4: 'b', // George Orwell
+    q5: 'c', // Kautilya (Chanakya)
+    q6: 'b', // Mahatma Gandhi
+    q7: 'a', // Paulo Coelho
+    q8: 'c', // B.R. Ambedkar
+    q9: 'c', // Jane Austen
+    q10: 'b', // Bankim Chandra Chatterjee
+    q11: 'b', // F. Scott Fitzgerald
+    q12: 'c', // Kalidasa
+    q13: 'b', // Sun Tzu
+    q14: 'b', // B.R. Ambedkar
+    q15: 'a'  // Harper Lee
+  };
+
+  let score = 0;
+  let total = Object.keys(answers).length;
+  
+  for (let question in answers) {
+    const selectedAnswer = document.querySelector(`input[name="${question}"]:checked`);
+    if (selectedAnswer && selectedAnswer.value === answers[question]) {
+      score++;
+    }
+  }
+
+  const percentage = (score / total) * 100;
+  const resultDiv = document.getElementById('result');
+  
+  if (percentage >= 60) {
+    resultDiv.className = 'result pass';
+    resultDiv.innerHTML = `🎉 Congratulations! You scored ${score}/${total} (${percentage.toFixed(1)}%)`;
+  } else {
+    resultDiv.className = 'result fail';
+    resultDiv.innerHTML = `📚 Keep studying! You scored ${score}/${total} (${percentage.toFixed(1)}%)`;
+  }
+  
+  // Show correct answers
+  setTimeout(() => {
+    resultDiv.innerHTML += `<br><br><strong>Correct Answers:</strong><br>
+    1. Jawaharlal Nehru - The Discovery of India<br>
+    2. A.P.J. Abdul Kalam - Wings of Fire<br>
+    3. Arundhati Roy - The God of Small Things<br>
+    4. George Orwell - 1984<br>
+    5. Kautilya (Chanakya) - Arthashastra<br>
+    6. Mahatma Gandhi - Hind Swaraj<br>
+    7. Paulo Coelho - The Alchemist<br>
+    8. B.R. Ambedkar - The Annihilation of Caste<br>
+    9. Jane Austen - Pride and Prejudice<br>
+    10. Bankim Chandra Chatterjee - Anandmath<br>
+    11. F. Scott Fitzgerald - The Great Gatsby<br>
+    12. Kalidasa - Abhigyaan Shakuntala<br>
+    13. Sun Tzu - The Art of War<br>
+    14. B.R. Ambedkar - The Buddha and His Dhamma<br>
+    15. Harper Lee - To Kill a Mockingbird`;
+  }, 2000);
+}
+</script>
+
 
 <style>
 .quiz-container {
@@ -292,48 +456,6 @@ You can download the free PDF of this list of important books and their authors 
 }
 </style>
 
-<script>
-function checkAnswers() {
-  const answers = {
-    q1: 'b', // Jawaharlal Nehru
-    q2: 'b', // A.P.J. Abdul Kalam
-    q3: 'b', // Arundhati Roy
-    q4: 'b', // George Orwell
-    q5: 'c'  // Kautilya (Chanakya)
-  };
-
-  let score = 0;
-  let total = Object.keys(answers).length;
-  
-  for (let question in answers) {
-    const selectedAnswer = document.querySelector(`input[name="${question}"]:checked`);
-    if (selectedAnswer && selectedAnswer.value === answers[question]) {
-      score++;
-    }
-  }
-
-  const percentage = (score / total) * 100;
-  const resultDiv = document.getElementById('result');
-  
-  if (percentage >= 60) {
-    resultDiv.className = 'result pass';
-    resultDiv.innerHTML = `🎉 Congratulations! You scored ${score}/${total} (${percentage}%)`;
-  } else {
-    resultDiv.className = 'result fail';
-    resultDiv.innerHTML = `📚 Keep studying! You scored ${score}/${total} (${percentage}%)`;
-  }
-  
-  // Show correct answers
-  setTimeout(() => {
-    resultDiv.innerHTML += `<br><br><strong>Correct Answers:</strong><br>
-    1. Jawaharlal Nehru<br>
-    2. A.P.J. Abdul Kalam<br>
-    3. Arundhati Roy<br>
-    4. George Orwell<br>
-    5. Kautilya (Chanakya)`;
-  }, 2000);
-}
-</script>
 
 ## Suggested Blogs
 - [Kanva Dynasty Short Notes](https://eduware.vercel.app/blog/kanva-dynasty-with-free-pdf-notes/)
