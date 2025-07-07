@@ -12,6 +12,11 @@ slug: "books-and-authors-name"
 
 Books and Authors are an essential part of the General Knowledge section in competitive exams like SSC CGL, CPO, CHSL, MTS, GD, and others. Below is a list of important books along with their authors that you should be familiar with for these exams. Famous books and their authors are often asked in the General Knowledge section, books like "The Discovery of India" by Jawaharlal Nehru, "Wings of Fire" by A.P.J. Abdul Kalam, "Young India" by Mahatma Gandhi, "Rmayana" by Valmiki and many others are significant.
 
+## Table of Contents
+- [Important Books by Indian Authors](#important-books-by-indian-authors)
+- [Important Books by Foreign Authors](#important-books-by-foreign-authors)
+- [Download Free PDF of Books and Authors Name](#download-free-pdf-of-books-and-authors-name)
+
 ## Important Books by Indian Authors
 Here is a list of important books written by Indian authors that are frequently asked in competitive exams:
 | S.No. | Book Name                             | Author Name                |
@@ -125,7 +130,12 @@ Here is a list of important books written by foreign authors that are frequently
 | 30    | Whithera and Man and His Bodies       | Annie Besant               |
 
 ## Download Free PDF of Books and Authors Name
-You can download the free PDF of this list of important books and their authors from the link below
+You can download the free PDF of this list of important books and their authors from the link below  
 <button class="btn btn-primary" onclick="window.print()">
   Download PDF of Books and Authors Name
 </button>
+
+## Suggested Blogs
+- [Kanva Dynasty Short Notes](https://eduware.vercel.app/blog/kanva-dynasty-with-free-pdf-notes/)
+- [Panchayati Raj Free Notes](https://eduware.vercel.app/blog/panchayati-raj-in-india/)
+- [UNESCO World Heritage Sites in India](https://eduware.vercel.app/blog/unesco-world-heritage-sites-in-india/)
