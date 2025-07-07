@@ -90,6 +90,7 @@ Here is a list of important books written by Indian authors that are frequently 
 | 66    | Mahabhasya                           | Patanjali                  |
 | 67    | Mrichhakatika                        | Shudraka                   |
 | 68    | Gitagovinda                          | Jayadeva                   |
+| 69    | Kadambari                          | Banbhatta                   |
 
 ![Books and Authors]([https://videos.openai.com/vg-assets/assets%2Ftask_01jzhm6e2xfenrv6qd7hck3e7y%2F1751864601_img_0.webp?st=2025-07-07T04%3A03%3A08Z&se=2025-07-13T05%3A03%3A08Z&sks=b&skt=2025-07-07T04%3A03%3A08Z&ske=2025-07-13T05%3A03%3A08Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=3d249c53-07fa-4ba4-9b65-0bf8eb4ea46a&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=q8ETICrqI57CpYMIQQCmpMeNotTzx85YZpkOHdos%2FJA%3D&az=oaivgprodscus](https://github.com/PatelAbhay550/eduware/raw/refs/heads/main/src/assets/top-20-authors-india.webp))
 
