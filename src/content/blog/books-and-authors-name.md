@@ -20,80 +20,98 @@ Books and Authors are an essential part of the General Knowledge section in comp
 
 ## Important Books by Indian Authors
 Here is a list of important books written by Indian authors that are frequently asked in competitive exams:
+### Books and Authors of Ancient India
+| S.No. | Book Name                             | Author Name                |
+|-------|---------------------------------------|----------------------------|
+| 1     | The Ramayana                          | Valmiki                    |
+| 2     | The Mahabharata                       | Vyasa                      |
+| 3     | Natyashastra                          | Bharata Muni               |
+| 4     | Meghdoot                              | Kalidasa                   |
+| 5     | Malvika Aginimitram                   | Kalidasa                   |
+| 6     | Geeta Govinda                         | Jayadeva                   |
+| 7     | Nagnanda                              | Harsha                     |
+| 8     | Ratnavali                             | Harsha                     |
+| 9     | Harsha Charita                        | Bana Bhatt                 |
+| 10    | Arthashastra                          | Kautilya (Chanakya)        |
+| 11    | Chandaḥśāstra                         | Pingala                    |
+| 12    | Kathasaritsagara                      | Somadeva                   |
+| 13    | Kamasutra                             | Vatsayana                  |
+| 14    | Prashnottarmalika                     | Amoghavarsha               |
+| 15    | Swapanvasdattam                       | Bhasa                      |
+| 16    | Buddha Charita                        | Asvaghosa                  |
+| 17    | Abhigyaan Shankuntala                 | Kalidasa                   |
+| 18    | Vikramorvashi                         | Kalidasa                   |
+| 19    | Raghuvansan                           | Kalidasa                   |
+| 20    | Amarkosa                              | Amarasimha                 |
+| 21    | Panchsidhantika                       | Varharmihara               |
+| 22    | Brihat Samhita                        | Varharmihara               |
+| 23    | Surya Sidhanta                        | Aryabhatta                 |
+| 24    | Aryabhatta                            | Aryabhatta                 |
+| 25    | Panch Tantra                          | Vishnu Sharma              |
+| 26    | Nitisara                              | Kamandaka                  |
+| 27    | Aihole Prasasti                       | Ravi Kriti                 |
+| 28    | Charaka Samhita                       | Charaka                    |
+| 29    | Lilawati                              | Bhaskara II                |
+| 30    | Gathasaptashati                       | Hala                       |
+| 31    | Astadhyayi                            | Panini                     |
+| 32    | Mahabhasya                            | Patanjali                  |
+| 33    | Mrichhakatika                         | Shudraka                   |
+| 34    | Gitagovinda                           | Jayadeva                   |
+| 35    | Indica                                | Megasthanese               |
+
+### Books and Authors of Medieval India
+| S.No. | Book Name                             | Author Name                |
+|-------|---------------------------------------|----------------------------|
+| 1     | Prithviraj Raso                       | Chand Bardai               |
+| 2     | Chachnama                             | Ali Kufi                   |
+| 3     | Tabaqat-i-Nasiri                      | Minhaj-i-Siraj             |
+| 4     | Shahnama                              | Ferdowsi                   |
+| 5     | Tahkik-i-Hind                         | Al Beruni                  |
+| 6     | Tarikh-i-Firozshahi                   | Ziauddin Barani            |
+| 7     | Tarikh-i-Firoz Shahi                  | Shams Siraj Afif           |
+| 8    | Tarikh-i-Mubarakshahi                 | Yahya Bin Ahmed Sarhindi   |
+| 9    | Lahjat-i-Sikandari                    | Sikander Lodi              |
+| 10    | Tujuk-i-Babri                         | Babur                      |
+| 11    | Baburnama                             | Abdur Rahim Khan-i-Khana   |
+| 12    | Humayunnama                           | Gulbadan Begum             |
+| 13    | Tujuk-i-Jahangiri                     | Jahangir                   |
+| 14    | Fatwa-i-Alamgiri                      | Aurangzeb                  |
+
+
+### Books and Authors of Modern India
 | S.No. | Book Name                             | Author Name                |
 |-------|---------------------------------------|----------------------------|
 | 1     | The Discovery of India                | Jawaharlal Nehru           |
 | 2     | Wings of Fire                         | A.P.J. Abdul Kalam         |
 | 3     | The God of Small Things               | Arundhati Roy              |
-| 4     | Meghdoot                              | Kalidasa                   |
-| 5     | The Immortals of Meluha               | Amish Tripathi             |
-| 6     | Malvika Aginimitram                   | Kalidasa                   |
-| 7     | The Ramayana                          | Valmiki                    |
-| 8     | The Mahabharata                       | Vyasa                      |
-| 9     | Natyashastra                          | Bharata Muni               |
-| 10    | Devdas                               | Sarat Chandra Chattopadhyay |
-| 11    | Geeta Govinda                        | Jayadeva                   |
-| 12    | Nagnanda                             | Harsha                     |
-| 13    | Ratnavali                            | Harsha                     |
-| 14    | Harsha Charita                       | Bana Bhatt                 |
-| 15    | Geeta Rahasya                        | Bal Gangadhar Tilak        |
-| 16    | Poverty and UnBritish Rule in India  | Dadabhai Naoroji           |
-| 17    | The Golden Threshold                 | Sarojini Naidu             |
-| 18    | Unhappy India                        | Lala Lajpat Rai            |
-| 19    | Why I am an Atheist                  | Bhagat Singh               |
-| 20    | Anandmath                            | Bankim Chandra Chatterjee  |
-| 21    | Hind Swaraj                          | Mahatma Gandhi             |
-| 22    | The Indian Struggle                  | Netaji Subhash Chandra Bose |
-| 23    | The Story of My Experiments with Truth | Mahatma Gandhi             |
-| 24    | Satyarth Prakash                     | Swami Dayanand Saraswati   |
-| 25    | Gulamgiri                            | Jyotirao Phule             |
-| 26    | A Bunch of Old Letters               | Jawaharlal Nehru           |
-| 27    | Waiting for a Visa: Autobiographical Notes | B.R. Ambedkar             |
-| 28    | The Problem of the Rupee: Its Origin and Its Solution | B.R. Ambedkar             |
-| 29    | Riddles in Hinduism                  | B.R. Ambedkar             |
-| 30    | The Untouchables: Who Were They and Why They Became Untouchables? | B.R. Ambedkar             |
-| 31    | Thoughts on Linguistic States        | B.R. Ambedkar             |
-| 32    | The Buddha and His Dhamma            | B.R. Ambedkar             |
-| 33    | The Annihilation of Caste            | B.R. Ambedkar             |
-| 34    | Raj Yoga                             | Swami Vivekananda          |
-| 35    | Go, Get Education                     | Savitribai Phule           |
-| 36    | Intertwined Lives: P.N. Haksar And Indira Gandhi | Jairam Ramesh               |
-| 37    | An Era of Darkness: The British Empire in India | Shashi Tharoor             |
-| 38    | Who were the Shudras?                | B.R. Ambedkar             |
-| 39    | Prithviraj Raso                      | Chand Bardai               |
-| 40    | The Life Divine                      | Sri Aurobindo              |
-| 41    | Rajtarangini                         | Kalhana                    |
-| 42    | Mudrarakshasa                        | Vishakhadatta              |
-| 43    | Arthashastra                         | Kautilya (Chanakya)        |
-| 44    | Chandaḥśāstra                        | Pingala                    |
-| 45    | Kathasaritsagara                     | Somadeva                   |
-| 46    | Kamasutra                            | Vatsayana                  |
-| 47    | Prashnottarmalika                    | Amoghavarsha               |
-| 48    | Swapanvasdattam                      | Bhasa                      |
-| 49    | Buddha Charita                       | Asvaghosa                  |
-| 50    | Abhigyaan Shankuntala                | Kalidasa                   |
-| 51    | Vikramorvashi                        | Kalidasa                   |
-| 52    | Raghuvansan                          | Kalidasa                   |
-| 53    | Amarkosa                             | Amarasimha                 |
-| 54    | Panchsidhantika                      | Varharmihara               |
-| 55    | Brihat Samhita                       | Varharmihara               |
-| 56    | Surya Sidhanta                       | Aryabhatta                 |
-| 57    | Aryabhatta                           | Aryabhatta                 |
-| 58    | Panch Tantra                         | Vishnu Sharma              |
-| 59    | Nitisara                             | Kamandaka                  |
-| 60    | Aihole Prasasti                      | Ravi Kriti                 |
-| 61    | Indica                               | Megasthanese               |
-| 62    | Charaka Samhita                      | Charaka                    |
-| 63    | Lilawati                             | Bhaskara II                |
-| 64    | Gathasaptashati                      | Hala                       |
-| 65    | Astadhyayi                           | Panini                     |
-| 66    | Mahabhasya                           | Patanjali                  |
-| 67    | Mrichhakatika                        | Shudraka                   |
-| 68    | Gitagovinda                          | Jayadeva                   |
-| 69    | Kadambari                          | Banbhatta                   |
+| 4     | The Immortals of Meluha               | Amish Tripathi             |
+| 5     | Geeta Rahasya                         | Bal Gangadhar Tilak        |
+| 6     | Poverty and UnBritish Rule in India   | Dadabhai Naoroji           |
+| 7     | The Golden Threshold                  | Sarojini Naidu             |
+| 8     | Unhappy India                         | Lala Lajpat Rai            |
+| 9     | Why I am an Atheist                   | Bhagat Singh               |
+| 10    | Anandmath                             | Bankim Chandra Chatterjee  |
+| 11    | Hind Swaraj                           | Mahatma Gandhi             |
+| 12    | The Indian Struggle                   | Netaji Subhash Chandra Bose |
+| 13    | The Story of My Experiments with Truth | Mahatma Gandhi             |
+| 14    | Satyarth Prakash                      | Swami Dayanand Saraswati   |
+| 15    | Gulamgiri                             | Jyotirao Phule             |
+| 16    | A Bunch of Old Letters                | Jawaharlal Nehru           |
+| 17    | Waiting for a Visa: Autobiographical Notes | B.R. Ambedkar             |
+| 18    | The Problem of the Rupee: Its Origin and Its Solution | B.R. Ambedkar             |
+| 19    | Riddles in Hinduism                   | B.R. Ambedkar             |
+| 20    | The Untouchables: Who Were They and Why They Became Untouchables? | B.R. Ambedkar             |
+| 21    | Thoughts on Linguistic States         | B.R. Ambedkar             |
+| 22    | The Buddha and His Dhamma             | B.R. Ambedkar             |
+| 23    | The Annihilation of Caste             | B.R. Ambedkar             |
+| 24    | Raj Yoga                              | Swami Vivekananda          |
+| 25    | Go, Get Education                     | Savitribai Phule           |
+| 26    | Intertwined Lives: P.N. Haksar And Indira Gandhi | Jairam Ramesh               |
+| 27    | An Era of Darkness: The British Empire in India | Shashi Tharoor             |
+| 28    | Who were the Shudras?                 | B.R. Ambedkar             |
+| 29    | The Life Divine                       | Sri Aurobindo              |
 
-![Books and Authors]([https://videos.openai.com/vg-assets/assets%2Ftask_01jzhm6e2xfenrv6qd7hck3e7y%2F1751864601_img_0.webp?st=2025-07-07T04%3A03%3A08Z&se=2025-07-13T05%3A03%3A08Z&sks=b&skt=2025-07-07T04%3A03%3A08Z&ske=2025-07-13T05%3A03%3A08Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=3d249c53-07fa-4ba4-9b65-0bf8eb4ea46a&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=q8ETICrqI57CpYMIQQCmpMeNotTzx85YZpkOHdos%2FJA%3D&az=oaivgprodscus](https://github.com/PatelAbhay550/eduware/raw/refs/heads/main/src/assets/top-20-authors-india.webp))
-
+![Books and Authors](https://github.com/PatelAbhay550/eduware/raw/refs/heads/main/src/assets/top-20-authors-india.webp)
 
 ## Important Books by Foreign Authors
 Here is a list of important books written by foreign authors that are frequently asked in competitive exams:
