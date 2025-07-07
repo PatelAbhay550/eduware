@@ -135,6 +135,207 @@ You can download the free PDF of this list of important books and their authors 
   Download PDF of Books and Authors Name
 </button>
 
+## Quiz on Books and Authors
+<div class="quiz-container">
+  <div class="quiz-header">
+    <h3>Test Your Knowledge - Books and Authors Quiz</h3>
+    <p>Answer the following questions to test your knowledge of important books and their authors:</p>
+  </div>
+  
+  <div class="quiz-question" id="question1">
+    <h4>Question 1: Who is the author of "The Discovery of India"?</h4>
+    <div class="options">
+      <label><input type="radio" name="q1" value="a"> Mahatma Gandhi</label>
+      <label><input type="radio" name="q1" value="b"> Jawaharlal Nehru</label>
+      <label><input type="radio" name="q1" value="c"> A.P.J. Abdul Kalam</label>
+      <label><input type="radio" name="q1" value="d"> B.R. Ambedkar</label>
+    </div>
+  </div>
+
+  <div class="quiz-question" id="question2">
+    <h4>Question 2: "Wings of Fire" is written by which author?</h4>
+    <div class="options">
+      <label><input type="radio" name="q2" value="a"> Arundhati Roy</label>
+      <label><input type="radio" name="q2" value="b"> A.P.J. Abdul Kalam</label>
+      <label><input type="radio" name="q2" value="c"> Amish Tripathi</label>
+      <label><input type="radio" name="q2" value="d"> Shashi Tharoor</label>
+    </div>
+  </div>
+
+  <div class="quiz-question" id="question3">
+    <h4>Question 3: Who wrote "The God of Small Things"?</h4>
+    <div class="options">
+      <label><input type="radio" name="q3" value="a"> Sarojini Naidu</label>
+      <label><input type="radio" name="q3" value="b"> Arundhati Roy</label>
+      <label><input type="radio" name="q3" value="c"> Bankim Chandra Chatterjee</label>
+      <label><input type="radio" name="q3" value="d"> Sarat Chandra Chattopadhyay</label>
+    </div>
+  </div>
+
+  <div class="quiz-question" id="question4">
+    <h4>Question 4: "1984" is written by which foreign author?</h4>
+    <div class="options">
+      <label><input type="radio" name="q4" value="a"> F. Scott Fitzgerald</label>
+      <label><input type="radio" name="q4" value="b"> George Orwell</label>
+      <label><input type="radio" name="q4" value="c"> Harper Lee</label>
+      <label><input type="radio" name="q4" value="d"> J.D. Salinger</label>
+    </div>
+  </div>
+
+  <div class="quiz-question" id="question5">
+    <h4>Question 5: Who is the author of "Arthashastra"?</h4>
+    <div class="options">
+      <label><input type="radio" name="q5" value="a"> Kalidasa</label>
+      <label><input type="radio" name="q5" value="b"> Valmiki</label>
+      <label><input type="radio" name="q5" value="c"> Kautilya (Chanakya)</label>
+      <label><input type="radio" name="q5" value="d"> Bharata Muni</label>
+    </div>
+  </div>
+
+  <button class="submit-btn" onclick="checkAnswers()">Submit Quiz</button>
+  <div class="result" id="result"></div>
+</div>
+
+<style>
+.quiz-container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  
+}
+
+.quiz-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.quiz-header h3 {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.quiz-question {
+  margin-bottom: 25px;
+  padding: 15px;
+  
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.quiz-question h4 {
+  color: #444;
+  margin-bottom: 15px;
+}
+
+.options {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.options label {
+  display: flex;
+  align-items: center;
+  padding: 8px 12px;
+  border: 1px solid #e0e0e0;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.options label:hover {
+  background-color:rgba(240, 240, 240, 0.2);
+}
+
+.options input[type="radio"] {
+  margin-right: 10px;
+}
+
+.submit-btn {
+  display: block;
+  width: 200px;
+  margin: 20px auto;
+  padding: 12px 24px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+.submit-btn:hover {
+  background-color: #0056b3;
+}
+
+.result {
+  text-align: center;
+  margin-top: 20px;
+  padding: 15px;
+  border-radius: 5px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.result.pass {
+  background-color: #d4edda;
+  color: #155724;
+  border: 1px solid #c3e6cb;
+}
+
+.result.fail {
+  background-color: #f8d7da;
+  color: #721c24;
+  border: 1px solid #f5c6cb;
+}
+</style>
+
+<script>
+function checkAnswers() {
+  const answers = {
+    q1: 'b', // Jawaharlal Nehru
+    q2: 'b', // A.P.J. Abdul Kalam
+    q3: 'b', // Arundhati Roy
+    q4: 'b', // George Orwell
+    q5: 'c'  // Kautilya (Chanakya)
+  };
+
+  let score = 0;
+  let total = Object.keys(answers).length;
+  
+  for (let question in answers) {
+    const selectedAnswer = document.querySelector(`input[name="${question}"]:checked`);
+    if (selectedAnswer && selectedAnswer.value === answers[question]) {
+      score++;
+    }
+  }
+
+  const percentage = (score / total) * 100;
+  const resultDiv = document.getElementById('result');
+  
+  if (percentage >= 60) {
+    resultDiv.className = 'result pass';
+    resultDiv.innerHTML = `🎉 Congratulations! You scored ${score}/${total} (${percentage}%)`;
+  } else {
+    resultDiv.className = 'result fail';
+    resultDiv.innerHTML = `📚 Keep studying! You scored ${score}/${total} (${percentage}%)`;
+  }
+  
+  // Show correct answers
+  setTimeout(() => {
+    resultDiv.innerHTML += `<br><br><strong>Correct Answers:</strong><br>
+    1. Jawaharlal Nehru<br>
+    2. A.P.J. Abdul Kalam<br>
+    3. Arundhati Roy<br>
+    4. George Orwell<br>
+    5. Kautilya (Chanakya)`;
+  }, 2000);
+}
+</script>
+
 ## Suggested Blogs
 - [Kanva Dynasty Short Notes](https://eduware.vercel.app/blog/kanva-dynasty-with-free-pdf-notes/)
 - [Panchayati Raj Free Notes](https://eduware.vercel.app/blog/panchayati-raj-in-india/)
