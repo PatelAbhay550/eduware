@@ -111,6 +111,22 @@ Here is a list of important books written by Indian authors that are frequently 
 | 28    | Who were the Shudras?                 | B.R. Ambedkar             |
 | 29    | The Life Divine                       | Sri Aurobindo              |
 | 30    | Stree Purush Tulna                       | Tarabai Shinde              |
+| 31    | Tamas                       | Bhisma Sahni              |
+| 32    | Exam Worrior                       | Narendra Modi              |
+| 33    | Sakshi Bhaav                       | Narendra Modi              |
+| 34    | Why I am Hindu                       | Shashi Throor              |
+| 35    | The Paradoxical Prime Minister                       | Shashi Throor              |
+| 36    | Train to Pakistan                       | Khushwant Singh              |
+| 37    | Two States                       | Chetan Bhagat              |
+| 38    | Malgudi Days                      | R.K. Narayan              |
+| 39    | The Guide                       | R.K. Narayan              |
+| 40    | Swami and Friends                       | R.K. Narayan              |
+| 41    | Anamika                       | Suryakant Tripathi Nirala              |
+| 42    | Kukurmutta                       | Suryakant Tripathi Nirala              |
+| 43    | Godaan                       | Premchand              |
+| 44    | Gaban                       | Premchand              |
+| 45    | Idgah                       | Premchand              |
+
 
 ![Books and Authors](https://github.com/PatelAbhay550/eduware/raw/refs/heads/main/src/assets/top-20-authors-india.webp)
 
