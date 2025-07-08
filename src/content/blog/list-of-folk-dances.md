@@ -1,6 +1,6 @@
 ---
 title: "[Free PDF] State-Wise List of Folk Dances of India"
-description: "Get a list of folk dances of each state of India that are beinificial for SSC, Banking, Railway and other competitive exams. Download the PDF for free."
+description: "Get Complete list of folk dances of each state of India that are beinificial for SSC, Banking, Railway and other competitive exams. Download the PDF for free."
 pubDate: "July 08, 2025"
 heroImage: "../../assets/folk-dance-of-india.webp"
 category: "SSC Exams"
@@ -50,6 +50,14 @@ India has a rich cultural heritage, and its folk dances are a vibrant expression
 | 27 | Tripura | Hojagiri |
 | 28 | Sikkim | Chu Faat Dance, Sikmari, Singhi Chaam, Yak Chaam, Denzong Gnenha |
 | 29 | Lakshadweep | Lava, Kolkali, Parichakali |
+
+[Note: The above table is not exhaustive and may not include all folk dances from each state. It serves as a representative list for competitive exams]
+<figure>
+<img src="https://eduware.vercel.app/folk_dances_of_india.jpg" alt="folk dances from each state" />
+<figcaption style="color: lightgray;">Important folk dances of India.</figcaption>
+</figure>
+
+Image Source: [Instagram](https://www.instagram.com/p/DBDQ1iliSPm/)
 
 ## State-Wise Folk Dances of India
 **folk dance of Assam:**  Bihu, Bichhua, Natpuja, Kaligopal
