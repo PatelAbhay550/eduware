@@ -110,6 +110,7 @@ Here is a list of important books written by Indian authors that are frequently 
 | 27    | An Era of Darkness: The British Empire in India | Shashi Tharoor             |
 | 28    | Who were the Shudras?                 | B.R. Ambedkar             |
 | 29    | The Life Divine                       | Sri Aurobindo              |
+| 30    | Stree Purush Tulna                       | Tarabai Shinde              |
 
 ![Books and Authors](https://github.com/PatelAbhay550/eduware/raw/refs/heads/main/src/assets/top-20-authors-india.webp)
 
