@@ -1,6 +1,6 @@
 ---
 title: "[Free PDF] State-Wise List of Folk Dances of India"
-description: "Get Complete list of folk dances of each state of India that are beinificial for SSC, Banking, Railway and other competitive exams. Download the PDF for free."
+description: "Get a list of folk dances of each state of India that are beinificial for SSC, Banking, Railway and other competitive exams. Download the PDF for free."
 pubDate: "July 08, 2025"
 heroImage: "../../assets/folk-dance-of-india.webp"
 category: "SSC Exams"
@@ -52,25 +52,25 @@ India has a rich cultural heritage, and its folk dances are a vibrant expression
 | 29 | Lakshadweep | Lava, Kolkali, Parichakali |
 
 ## State-Wise Folk Dances of India
-**folk dance of Assam:** Bihu, Bichhua, Natpuja, Kaligopal
+**folk dance of Assam:**  Bihu, Bichhua, Natpuja, Kaligopal
 
-**folk dance of Karnataka:** Yakshagana, Suggi Kunitha, Dollu Kunitha
+**folk dance of Karnataka:**  Yakshagana, Suggi Kunitha, Dollu Kunitha
 
-**folk dance of Bihar:** Jata‑Jatin, Bidesia, Sama Chakwa
+**folk dance of Bihar:**  Jata‑Jatin, Bidesia, Sama Chakwa
 
-**folk dance of Odisha:** Savari, Ghumara, Painka, Munari, Chhau
+**folk dance of Odisha:**  Savari, Ghumara, Painka, Munari, Chhau
 
-**folk dance of Uttar Pradesh / folk dance of UP:** Nautanki, Raslila, Kajri, Chappeli, Charkula
+**folk dance of Uttar Pradesh / folk dance of UP:**  Nautanki, Raslila, Kajri, Chappeli, Charkula
 
-**folk dance of West Bengal:** Purulia Chhau, Baul, Gambhira, Alkap, Jatra
+**folk dance of West Bengal:**  Purulia Chhau, Baul, Gambhira, Alkap, Jatra
 
-**folk dance of Gujarat:** Garba, Dandiya Ras, Bhavai
+**folk dance of Gujarat:**  Garba, Dandiya Ras, Bhavai
 
-**folk dance of Madhya Pradesh / folk dance of MP:** Jawara, Phulpati, Maanch
+**folk dance of Madhya Pradesh / folk dance of MP:**  Jawara, Phulpati, Maanch
 
-**folk dance of Himachal Pradesh:** Jhora, Chharhi, Chhapeli, Dhaman
+**folk dance of Himachal Pradesh:**  Jhora, Chharhi, Chhapeli, Dhaman
 
-**folk dance of Uttarakhand:** Garhwali, Kumayuni, Kajari, Jhora, Chappeli, Raslila
+**folk dance of Uttarakhand:**  Garhwali, Kumayuni, Kajari, Jhora, Chappeli, Raslila
 
 ## Download free PDF
 You can download the complete list of folk dances of India in PDF format for free by clicking the link below:
