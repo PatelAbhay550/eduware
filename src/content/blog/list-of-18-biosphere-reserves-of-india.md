@@ -99,6 +99,10 @@ There are **18** biosphere reserves officially declared in India as of 2025.
 
 The **Nilgiri Biosphere Reserve**, declared in **1986**, is the first biosphere reserve of India.
 
+### Which was the last biosphere reserve in india?
+
+The last biosphere reserve in India was Panna biosphere reserve, which was added in 2011.
+
 ### 🔹 Which biosphere reserve was last added in India?
 
 **Panna Biosphere Reserve** in **2011** was the last declared reserve.
