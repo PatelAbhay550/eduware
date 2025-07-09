@@ -34,22 +34,13 @@ Now let's start solving and remembering these geography questions:
    **Explanation:** Bangladesh shares the longest border with India, measuring approximately 4,096 km.
 
 3. Dehradun is a part of  
-    a) Himadari
-    b) Himachal
-    c) Shivalik
-    d) Garhwal Mountains
+    a) Himadari  
+    b) Himachal  
+    c) Shivalik  
+    d) Garhwal Mountains  
 
     **Answer: c) Shivalik**
     **Explanation:** Dehradun is located in the Shivalik range of the Himalayas, which is part of the outer Himalayas.
-
-3. The Southern stretch of the Western coastal strip is referred to as  
-    a) Kannad
-    b) Konkan
-    c) Southern Government
-    d) Malabar
-
-    **Answer: d) Malabar**
-    **Explanation:** The Southern stretch of the Western coastal strip is known as Malabar, which extends from Goa to Kerala.
 
 4. Dudhwa National Park is located in which state?  
    a) Madhya Pradesh  
@@ -115,82 +106,82 @@ Now let's start solving and remembering these geography questions:
     **Explanation:** The Sahara Desert is the largest hot desert in the world, covering parts of North Africa.
 
 11. Outwash plain is formed by  
-    a) Wind
-    b) Water
-    c) Glaciers
-    d) Earthquakes
+    a) Wind  
+    b) Water  
+    c) Glaciers  
+    d) Earthquakes  
 
     **Answer: c) Glaciers**
     **Explanation:** An outwash plain is formed by the deposition of sediments by meltwater from glaciers.
 
 12. Dodabetta is the highest peak in which mountain range?  
-    a) Western Ghats
-    b) Eastern Ghats
-    c) Himalayas
-    d) Nilgiri Hills
+    a) Western Ghats  
+    b) Eastern Ghats  
+    c) Himalayas  
+    d) Nilgiri Hills  
 
     **Answer: d) Nilgiri Hills**
     **Explanation:** Dodabetta is the highest peak in the Nilgiri Hills, located in Tamil Nadu, India.
 
 13. The first Biosphere reserve of India was set up in 1986 in  
-    a) Nilgiri
-    b) Sunderbans
-    c) Nokrek
-    d) Panna
+    a) Nilgiri  
+    b) Sunderbans  
+    c) Nokrek  
+    d) Panna  
 
     **Answer: a) Nilgiri**
     **Explanation:** The Nilgiri Biosphere Reserve was the first biosphere reserve established in India in 1986, located in the Western Ghats.
 
 14. The largest river island in the world is  
-    a) Majuli
-    b) Sunderbans
-    c) Chilika Lake
-    d) Loktak Lake
+    a) Majuli  
+    b) Sunderbans  
+    c) Chilika Lake  
+    d) Loktak Lake  
 
     **Answer: a) Majuli**
     **Explanation:** Majuli, located in Assam, is the largest river island in the world, situated on the Brahmaputra River.
 
 15. The smallest river island in the world is  
-    a) Majuli
-    b) Umananda
-    c) Chilka
-    d) Loktak
+    a) Majuli  
+    b) Umananda  
+    c) Chilka  
+    d) Loktak  
 
     **Answer: b) Umananda**
     **Explanation:** Umananda Island, located in the Brahmaputra River near Guwahati, Assam, is considered the smallest inhabited river island in the world.
 
 16. Which of the following is the tidal port of India?  
-    a) Kandla
-    b) Mumbai
-    c) Visakhapatnam
-    d) Paradeep
+    a) Kandla  
+    b) Mumbai  
+    c) Visakhapatnam  
+    d) Paradeep  
 
     **Answer: d) Kandla**
     **Explanation:** Kandla is a tidal port located in Gujarat, India, and is one of the major ports on the west coast.
 
 17. The largest saltwater lake in India is  
-    a) Chilika Lake
-    b) Sambhar Lake
-    c) Vembanad Lake
-    d) Loktak Lake
+    a) Chilika Lake  
+    b) Sambhar Lake  
+    c) Vembanad Lake  
+    d) Loktak Lake  
 
     **Answer: a) Chilika Lake**
     **Explanation:** Chilika Lake, located along the eastern coast of India, is the largest saltwater lake in the country and is known for its rich biodiversity.
 
 18. The deepest port of India is  
-    a) Vishakhapatnam
-    b) Mumbai
-    c) Chennai
-    d) Haldia
+    a) Vishakhapatnam  
+    b) Mumbai  
+    c) Chennai  
+    d) Haldia  
 
     **Answer: a) Vishakhapatnam**
     **Explanation:** Vishakhapatnam, located in Andhra Pradesh, is the deepest port in India, allowing it to accommodate large vessels.
 
 19. El Nino is  
-    a) a warm ocean current
-    b) a cold ocean current
-    c) a bird
-    d) a type of fish
+    a) a warm ocean current  
+    b) a cold ocean current  
+    c) a bird  
+    d) a type of fish  
 
     **Answer: a) a warm ocean current**
     **Explanation:** El Nino is a warm ocean current that occurs in the Pacific Ocean and can significantly affect global weather patterns.
