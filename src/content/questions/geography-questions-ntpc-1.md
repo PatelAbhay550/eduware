@@ -22,7 +22,7 @@ Now let's start solving and remembering these geography questions:
    d) Amazon Rainforest  
 
    **Answer: d) Amazon Rainforest**  
-   **Explanation:** The Amazon Rainforest is located in South America and is not part of India's biosphere reserves.
+     **Explanation:** The Amazon Rainforest is located in South America and is not part of India's biosphere reserves.
 
 2. Which country shares the longest border with India?  
    a) Bangladesh  
@@ -31,7 +31,7 @@ Now let's start solving and remembering these geography questions:
    d) Nepal  
 
    **Answer: a) Bangladesh**  
-   **Explanation:** Bangladesh shares the longest border with India, measuring approximately 4,096 km.
+     **Explanation:** Bangladesh shares the longest border with India, measuring approximately 4,096 km.
 
 3. Dehradun is a part of  
     a) Himadari  
@@ -40,7 +40,7 @@ Now let's start solving and remembering these geography questions:
     d) Garhwal Mountains  
 
     **Answer: c) Shivalik**
-    **Explanation:** Dehradun is located in the Shivalik range of the Himalayas, which is part of the outer Himalayas.
+      **Explanation:** Dehradun is located in the Shivalik range of the Himalayas, which is part of the outer Himalayas.
 
 4. Dudhwa National Park is located in which state?  
    a) Madhya Pradesh  
@@ -49,7 +49,7 @@ Now let's start solving and remembering these geography questions:
    d) Bihar  
 
    **Answer: b) Uttar Pradesh**  
-   **Explanation:** Dudhwa National Park is situated in the Terai region of Uttar Pradesh, near the Indo-Nepal border.
+     **Explanation:** Dudhwa National Park is situated in the Terai region of Uttar Pradesh, near the Indo-Nepal border.
 
 5. The largest deltaic plain in the world is  
     a) Mesopotamian Plain
@@ -58,7 +58,7 @@ Now let's start solving and remembering these geography questions:
     d)Tigris - Euphrates Plain
 
     **Answer: b) Ganga-Brahmaputra Plain**
-    **Explanation:** The Ganga-Brahmaputra Plain is the largest deltaic plain in the world, formed by the confluence of the Ganga and Brahmaputra rivers.
+      **Explanation:** The Ganga-Brahmaputra Plain is the largest deltaic plain in the world, formed by the confluence of the Ganga and Brahmaputra rivers.
 
 6. The time difference between IST(Indian standard Time) and GMT(Greenwich Mean Time) is  
    a) 5 hours 30 minutes  
@@ -67,7 +67,7 @@ Now let's start solving and remembering these geography questions:
    d) 8 hours 30 minutes  
 
    **Answer: a) 5 hours 30 minutes**  
-   **Explanation:** Indian Standard Time (IST) is UTC+5:30, meaning it is 5 hours and 30 minutes ahead of Greenwich Mean Time (GMT).
+     **Explanation:** Indian Standard Time (IST) is UTC+5:30, meaning it is 5 hours and 30 minutes ahead of Greenwich Mean Time (GMT).
 
 7. Sardar Sarovar Dam is built on which river?  
    a) Narmada  
@@ -76,7 +76,7 @@ Now let's start solving and remembering these geography questions:
    d) Mahanadi  
 
    **Answer: a) Narmada**  
-   **Explanation:** The Sardar Sarovar Dam is constructed on the Narmada River in Gujarat, India.
+     **Explanation:** The Sardar Sarovar Dam is constructed on the Narmada River in Gujarat, India.
 
 8. In which of the following states is Vedanthangal Bird Sanctuary located?  
    a) Tamil Nadu  
@@ -85,7 +85,7 @@ Now let's start solving and remembering these geography questions:
    d) Andhra Pradesh  
 
    **Answer: a) Tamil Nadu**  
-   **Explanation:** Vedanthangal Bird Sanctuary is located in Tamil Nadu and is one of the oldest bird sanctuaries in India.
+     **Explanation:** Vedanthangal Bird Sanctuary is located in Tamil Nadu and is one of the oldest bird sanctuaries in India.
 
 9. Which country is separated from British India by the Durand Line?  
    a) Afghanistan  
@@ -94,7 +94,7 @@ Now let's start solving and remembering these geography questions:
    d) Nepal  
 
    **Answer: a) Afghanistan**  
-   **Explanation:** The Durand Line is the border between Afghanistan and Pakistan, established in 1893.
+     **Explanation:** The Durand Line is the border between Afghanistan and Pakistan, established in 1893.
 
 10. The largest desert in the world is  
     a) Sahara Desert
@@ -103,7 +103,7 @@ Now let's start solving and remembering these geography questions:
     d) Kalahari Desert
 
     **Answer: a) Sahara Desert**
-    **Explanation:** The Sahara Desert is the largest hot desert in the world, covering parts of North Africa.
+      **Explanation:** The Sahara Desert is the largest hot desert in the world, covering parts of North Africa.
 
 11. Outwash plain is formed by  
     a) Wind  
@@ -112,7 +112,7 @@ Now let's start solving and remembering these geography questions:
     d) Earthquakes  
 
     **Answer: c) Glaciers**
-    **Explanation:** An outwash plain is formed by the deposition of sediments by meltwater from glaciers.
+      **Explanation:** An outwash plain is formed by the deposition of sediments by meltwater from glaciers.
 
 12. Dodabetta is the highest peak in which mountain range?  
     a) Western Ghats  
@@ -121,7 +121,7 @@ Now let's start solving and remembering these geography questions:
     d) Nilgiri Hills  
 
     **Answer: d) Nilgiri Hills**
-    **Explanation:** Dodabetta is the highest peak in the Nilgiri Hills, located in Tamil Nadu, India.
+      **Explanation:** Dodabetta is the highest peak in the Nilgiri Hills, located in Tamil Nadu, India.
 
 13. The first Biosphere reserve of India was set up in 1986 in  
     a) Nilgiri  
@@ -130,7 +130,7 @@ Now let's start solving and remembering these geography questions:
     d) Panna  
 
     **Answer: a) Nilgiri**
-    **Explanation:** The Nilgiri Biosphere Reserve was the first biosphere reserve established in India in 1986, located in the Western Ghats.
+      **Explanation:** The Nilgiri Biosphere Reserve was the first biosphere reserve established in India in 1986, located in the Western Ghats.
 
 14. The largest river island in the world is  
     a) Majuli  
@@ -139,7 +139,7 @@ Now let's start solving and remembering these geography questions:
     d) Loktak Lake  
 
     **Answer: a) Majuli**
-    **Explanation:** Majuli, located in Assam, is the largest river island in the world, situated on the Brahmaputra River.
+      **Explanation:** Majuli, located in Assam, is the largest river island in the world, situated on the Brahmaputra River.
 
 15. The smallest river island in the world is  
     a) Majuli  
@@ -148,7 +148,7 @@ Now let's start solving and remembering these geography questions:
     d) Loktak  
 
     **Answer: b) Umananda**
-    **Explanation:** Umananda Island, located in the Brahmaputra River near Guwahati, Assam, is considered the smallest inhabited river island in the world.
+      **Explanation:** Umananda Island, located in the Brahmaputra River near Guwahati, Assam, is considered the smallest inhabited river island in the world.
 
 16. Which of the following is the tidal port of India?  
     a) Kandla  
@@ -157,7 +157,7 @@ Now let's start solving and remembering these geography questions:
     d) Paradeep  
 
     **Answer: d) Kandla**
-    **Explanation:** Kandla is a tidal port located in Gujarat, India, and is one of the major ports on the west coast.
+      **Explanation:** Kandla is a tidal port located in Gujarat, India, and is one of the major ports on the west coast.
 
 17. The largest saltwater lake in India is  
     a) Chilika Lake  
@@ -166,7 +166,7 @@ Now let's start solving and remembering these geography questions:
     d) Loktak Lake  
 
     **Answer: a) Chilika Lake**
-    **Explanation:** Chilika Lake, located along the eastern coast of India, is the largest saltwater lake in the country and is known for its rich biodiversity.
+      **Explanation:** Chilika Lake, located along the eastern coast of India, is the largest saltwater lake in the country and is known for its rich biodiversity.
 
 18. The deepest port of India is  
     a) Vishakhapatnam  
@@ -175,7 +175,7 @@ Now let's start solving and remembering these geography questions:
     d) Haldia  
 
     **Answer: a) Vishakhapatnam**
-    **Explanation:** Vishakhapatnam, located in Andhra Pradesh, is the deepest port in India, allowing it to accommodate large vessels.
+      **Explanation:** Vishakhapatnam, located in Andhra Pradesh, is the deepest port in India, allowing it to accommodate large vessels.
 
 19. El Nino is  
     a) a warm ocean current  
@@ -184,7 +184,7 @@ Now let's start solving and remembering these geography questions:
     d) a type of fish  
 
     **Answer: a) a warm ocean current**
-    **Explanation:** El Nino is a warm ocean current that occurs in the Pacific Ocean and can significantly affect global weather patterns.
+      **Explanation:** El Nino is a warm ocean current that occurs in the Pacific Ocean and can significantly affect global weather patterns.
 
 20. Agra Fort, a UNESCO World Heritage Site, is located in which state?  
    a) Rajasthan  
@@ -193,9 +193,7 @@ Now let's start solving and remembering these geography questions:
    d) Gujarat  
 
    **Answer: b) Uttar Pradesh**  
-   **Explanation:** Agra Fort is located in Agra, Uttar Pradesh, and is one of the most significant historical forts in India, known for its Mughal architecture.
-
----
+     **Explanation:** Agra Fort is located in Agra, Uttar Pradesh, and is one of the most significant historical forts in India, known for its Mughal architecture.
 
 ## Conclusion
 These geography questions cover a range of topics relevant to the RRB NTPC exam, including biosphere reserves, geographical features, and important landmarks. Practicing these questions will help you enhance your understanding of geography and improve your performance in the exam.
