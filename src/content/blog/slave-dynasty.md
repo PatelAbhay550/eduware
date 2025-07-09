@@ -182,7 +182,7 @@ B) Delhi
 C) Ajmer  
 D) Agra  
 
-**Answer:** B) Delhi
+**Answer:** A) Lahore
 
 ### 10. Which historical text was written during the reign of Nasir ud din Mahmud?  
 A) Tabaqat-i-Nasiri  
@@ -279,6 +279,7 @@ D) Ain-i-Akbari
 
 <button onclick="checkAnswers()" class="submit-btn">Submit Quiz</button>
 <div id="results"></div>
+<div id="answers" style="display: none;"></div>
 </div>
 </div>
 
@@ -381,6 +382,17 @@ function checkAnswers() {
         q8: 'c'  // Poisoned by Balban
     };
 
+    const answerLabels = {
+        q1: 'Lakh Baksh',
+        q2: 'Chaugaan (Horse Polo)',
+        q3: 'Mamluk Dynasty',
+        q4: 'Chalisa',
+        q5: 'Jamal ud din Yaqut',
+        q6: 'Nauroz',
+        q7: 'Jital',
+        q8: 'Poisoned by Balban'
+    };
+
     let score = 0;
     let total = Object.keys(answers).length;
     let feedback = '';
@@ -417,5 +429,6 @@ function checkAnswers() {
     resultsDiv.scrollIntoView({ behavior: 'smooth' });
 }
 </script>
+
 ## See Also
 [Books and Authors Name](https://eduware.vercel.app/blog/books-and-authors-name)
