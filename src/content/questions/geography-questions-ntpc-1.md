@@ -97,10 +97,10 @@ Now let's start solving and remembering these geography questions:
    **Explanation:** The Durand Line is the border between Afghanistan and Pakistan, established in 1893.
 
 10. The largest desert in the world is  
-    a) Sahara Desert
-    b) Arabian Desert
-    c) Gobi Desert
-    d) Kalahari Desert
+    a) Sahara Desert  
+    b) Arabian Desert  
+    c) Gobi Desert  
+    d) Kalahari Desert  
 
     **Answer: a) Sahara Desert**  
     **Explanation:** The Sahara Desert is the largest hot desert in the world, covering parts of North Africa.
