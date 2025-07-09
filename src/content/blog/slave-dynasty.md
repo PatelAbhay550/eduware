@@ -409,13 +409,13 @@ function checkAnswers() {
     
     if (percentage >= 80) {
         resultsDiv.className = 'correct';
-        feedback = 'Excellent! You have a great understanding of the Slave Dynasty.';
+        feedback = `Excellent! You have a great understanding of the Slave Dynasty.Answers are: q1: 'Lakh Baksh', q2: 'Chaugaan (Horse Polo)', q3: 'Mamluk Dynasty', q4: 'Chalisa', q5: 'Jamal ud din Yaqut', q6: 'Nauroz', q7: 'Jital', q8: 'Poisoned by Balban'`;
     } else if (percentage >= 60) {
         resultsDiv.className = 'correct';
-        feedback = 'Good job! You have a solid grasp of the topic.';
+        feedback = `Good job! You have a solid grasp of the topic.  Answers are: q1: 'Lakh Baksh', q2: 'Chaugaan (Horse Polo)', q3: 'Mamluk Dynasty', q4: 'Chalisa', q5: 'Jamal ud din Yaqut', q6: 'Nauroz', q7: 'Jital', q8: 'Poisoned by Balban'`;
     } else {
         resultsDiv.className = 'incorrect';
-        feedback = 'Keep studying! Review the material and try again.';
+        feedback = `Keep studying! Review the material and try again. Answers are: q1: 'Lakh Baksh', q2: 'Chaugaan (Horse Polo)', q3: 'Mamluk Dynasty', q4: 'Chalisa', q5: 'Jamal ud din Yaqut', q6: 'Nauroz', q7: 'Jital', q8: 'Poisoned by Balban'`;
     }
 
     resultsDiv.innerHTML = `
