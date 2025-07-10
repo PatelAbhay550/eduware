@@ -48,5 +48,5 @@ Use this trick to remember the values of sine, cosine, and tangent for common an
 4. **Include Radians**: Optionally, include the equivalent angles in radians for better understanding.
 
 ## Download the Trigonometry Table PDF
-You can download the comprehensive Trigonometry Table for Class 10, 11, and 12 in PDF format for easy reference during your studies and exam preparations.
+You can download the comprehensive Trigonometry Table for Class 10, 11, and 12 in PDF format for easy reference during your studies and exam preparations.  
 <button class="btn btn-primary" onclick="window.print()">Download Trigonometry Table PDF</button>
