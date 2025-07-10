@@ -10,7 +10,7 @@ readingTime: 10
 slug: "trigonometry-table"
 ---
 
-Trigonometry table is used to find the values of trigonometric ratios for various angles. It is a crucial tool for students in Class 10, 11, and 12, especially for those preparing for board exams and competitive tests. This table includes sine, cosine, tangent, cosecant, secant, and cotangent values for angles from 0° to 360° and 0 to π radians.
+Trigonometry table is used to find the values of trigonometric ratios for various angles. It is a crucial tool for students in Class 10, 11, and 12, especially for those preparing for board exams and competitive tests. This table includes sine, cosine, tangent, cosecant, secant, and cotangent values for angles from 0° to 90° and 0 to π/2 radians.
 
 ## Trigonometry Table for Class 10, 11, and 12
 | Angle (Degrees) | 0° | 30° | 45° | 60° | 90° |
