@@ -24,4 +24,4 @@ India's first Union Budget was presented by **John Mathai** on **28 February 195
 
 Also Solve: [Name of the first Assamese artist who won the Lalit Kala Akademi Award](https://eduware.vercel.app/questions/first-assamese-to-lalit-kala-award)  
 [In 1955, which painting of MF Husain was awarded the Lalit Kala Award](https://eduware.vercel.app/questions/painting-of-mf-hussain-awarded)  
-[Who presented the first Union Budget of Republic India?](https://eduware.vercel.app/questions/who-presented-the-first-union-budget-of-independent-india)
+[Who presented the first Union Budget of Independent India?](https://eduware.vercel.app/questions/who-presented-the-first-union-budget-of-independent-india)
