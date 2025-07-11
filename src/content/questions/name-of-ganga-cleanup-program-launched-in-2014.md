@@ -13,7 +13,7 @@ questionsCount: '1'
 ---
 
 a) Namami Gange  
-b) Ganga Action Plan
+b) Ganga Action Plan  
 c) Clean Ganga Mission  
 d) Ganga Rejuvenation Project
 
