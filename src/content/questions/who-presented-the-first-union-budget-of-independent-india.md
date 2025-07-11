@@ -18,7 +18,7 @@ c) Morarji Desai
 d) C. D. Deshmukh  
 
 The correct answer is **a) R. K. Shanmukham Chetty**.
----
+
 ## Explanation
 The first Union Budget of Independent India was presented by **R. K. Shanmukham Chetty** on November 26, 1947. He was the first Finance Minister of India. The budget was for a tenure of seven and a half months, covering the period from August 15, 1947, to March 31, 1948.
 
