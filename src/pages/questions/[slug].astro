@@ -4,6 +4,7 @@ import Layout from '../../layouts/Layout.astro';
 import FormattedDate from '../../components/FormattedDate.astro';
 import { Image } from 'astro:assets';
 import { render } from 'astro:content';
+import BreadcrumbSchema from '../../components/BreadcrumbSchema.astro';
 
 export async function getStaticPaths() {
     const questions = await getCollection('questions');
@@ -20,6 +21,11 @@ const { title, description, pubDate, updatedDate, heroImage, category, tags, dif
 const keywords = tags || [];
 if (category) keywords.push(category);
 if (difficulty) keywords.push(difficulty);
+const breadcrumbItems = [
+  { name: 'Home', url: '/' },
+  { name: 'Questions', url: '/questions' },
+  { name: title, url: Astro.url.pathname }
+];
 ---
 
 <Layout 
@@ -31,6 +37,7 @@ if (difficulty) keywords.push(difficulty);
 	modifiedTime={updatedDate?.toISOString()}
 	type="article"
 >
+<BreadcrumbSchema items={breadcrumbItems} />
 	<div class="container-narrow">
 		<article class="question-post">
 			<header class="question-header">
