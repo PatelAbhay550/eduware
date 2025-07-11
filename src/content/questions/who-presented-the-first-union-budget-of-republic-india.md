@@ -19,7 +19,7 @@ d) C. D. Deshmukh
 
 **Answer: b) John Mathai**
 
-## Explaination
+## Explanation
 India's first Union Budget was presented by **John Mathai** on **28 February 1950**, for the fiscal year 1950-51. The term used for Union Budget in India is "Annual Financial Statement" as per Article 112 of the Constitution of India. John Mathai was the first Finance Minister of republic India, and he played a significant role in shaping the financial policies of the newly independent nation.
 
 Also Solve: [Name of the first Assamese artist who won the Lalit Kala Akademi Award](https://eduware.vercel.app/questions/first-assamese-to-lalit-kala-award)  
