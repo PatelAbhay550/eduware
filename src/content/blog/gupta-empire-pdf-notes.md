@@ -86,7 +86,20 @@ This article provides an overview of the Gupta Dynasty, its rulers, achievements
 - Strengthened trade relations with foreign countries, particularly with the Roman Empire.  
 - Fa Hien, a buddhist monk, visited India during his reign and documented the prosperity of the Gupta Empire.  
 - He made Iron Pillar of Mehrauli, Delhi.  
-- He made his second capital Ujjaini.  
+- He made his second capital Ujjaini.
+
+#### Navratnas in the court of Chandragupta II
+The Navaratnas in the court of Chandragupta II were: 
+- Amarsimha, a Sanskrit lexicographer and poet;
+- Dhanvantari, a renowned physician;
+- Harisena, a poet and writer;
+- Kalidasa, a celebrated poet and playwright;
+- Kahapanaka, an astrologer;
+- Sanku, an architect;
+- Varahamihira, an astronomer;
+- Vararuchi, a grammarian and Sanskrit scholar; and
+- Vetalbhatta, a magician.
+
 
 ### Kumaragupta I
 - **Reign**: c. 415–455 AD
