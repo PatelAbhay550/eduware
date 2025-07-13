@@ -59,4 +59,4 @@ d) Nasik inscription
 **Explanation:** The Hathigumpha inscription, located near Bhubaneswar in Odisha, provides information about King Kharvela of Kalinga. It is a significant archaeological find that sheds light on the history and culture of ancient India.
 
 ## Also Solve
-- [RRB NTPC General Awareness Top 5 Questions](https://eduware.vercel.app/question/geography-questions-ntpc-1)
+- [RRB NTPC General Awareness Top 5 Questions](https://eduware.vercel.app/questions/geography-questions-ntpc-1)
