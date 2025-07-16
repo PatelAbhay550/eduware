@@ -21,7 +21,7 @@ India is home to **44 UNESCO World Heritage Sites** (36 cultural, 7 natural, and
 - [What are UNESCO World Heritage Sites?](#what-are-unesco-world-heritage-sites)
 - [Complete List of Sites in India (44)](#complete-list-of-sites-in-india-44)
 - [Statewise UNESCO Sites](#statewise-unesco-sites)
-- [Cultural Heritage Sites (35)](#cultural-heritage-sites-35)
+- [Cultural Heritage Sites (36)](#cultural-heritage-sites-36)
 - [Natural Heritage Sites (7)](#natural-heritage-sites-7)
 - [Mixed Heritage Site (1)](#mixed-heritage-site-1)
 - [Map of World Heritage Sites in India](#map-of-world-heritage-sites-in-india)
