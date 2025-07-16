@@ -1,6 +1,6 @@
 ---
 title: 'State-Wise List of UNESCO World Heritage Sites in India (Updated July 2025)'
-description: 'Complete list of all 43 UNESCO World Heritage Sites in India with categories and years.'
+description: 'Complete list of all 44 UNESCO World Heritage Sites in India with categories and years.'
 pubDate: 'July 16, 2025'
 heroImage: '../../assets/unesco-india-heritage.jpg'
 category: 'SSC Exams'
@@ -10,7 +10,7 @@ readingTime: 8
 slug: 'unesco-world-heritage-sites-in-india'
 ---
 
-India is home to **44 UNESCO World Heritage Sites** (35 cultural, 7 natural, and 1 mixed). From ancient cave paintings and majestic forts to lush national parks, these sites reflect India’s rich cultural and ecological legacy. This post includes a state-wise, type-wise, and year-wise breakdown—perfect for exam prep and general knowledge enthusiasts!
+India is home to **44 UNESCO World Heritage Sites** (36 cultural, 7 natural, and 1 mixed). From ancient cave paintings and majestic forts to lush national parks, these sites reflect India’s rich cultural and ecological legacy. This post includes a state-wise, type-wise, and year-wise breakdown—perfect for exam prep and general knowledge enthusiasts!
 
 [📘 Read also: All 18 Biosphere Reserves of India](https://eduware.vercel.app/blog/list-of-18-biosphere-reserves-of-india/)
 
