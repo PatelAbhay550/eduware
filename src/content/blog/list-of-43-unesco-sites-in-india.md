@@ -1,7 +1,7 @@
 ---
-title: 'State-Wise List of UNESCO World Heritage Sites in India (Updated 2025)'
+title: 'State-Wise List of UNESCO World Heritage Sites in India (Updated July 2025)'
 description: 'Complete list of all 43 UNESCO World Heritage Sites in India with categories and years.'
-pubDate: 'July 03, 2025'
+pubDate: 'July 16, 2025'
 heroImage: '../../assets/unesco-india-heritage.jpg'
 category: 'SSC Exams'
 tags: ["SSC CGL", "World Heritage Sites", "India heritage", "UNESCO India"]
@@ -10,7 +10,7 @@ readingTime: 8
 slug: 'unesco-world-heritage-sites-in-india'
 ---
 
-India is home to **43 UNESCO World Heritage Sites** (35 cultural, 7 natural, and 1 mixed). From ancient cave paintings and majestic forts to lush national parks, these sites reflect India’s rich cultural and ecological legacy. This post includes a state-wise, type-wise, and year-wise breakdown—perfect for exam prep and general knowledge enthusiasts!
+India is home to **44 UNESCO World Heritage Sites** (35 cultural, 7 natural, and 1 mixed). From ancient cave paintings and majestic forts to lush national parks, these sites reflect India’s rich cultural and ecological legacy. This post includes a state-wise, type-wise, and year-wise breakdown—perfect for exam prep and general knowledge enthusiasts!
 
 [📘 Read also: All 18 Biosphere Reserves of India](https://eduware.vercel.app/blog/list-of-18-biosphere-reserves-of-india/)
 
@@ -19,7 +19,7 @@ India is home to **43 UNESCO World Heritage Sites** (35 cultural, 7 natural, and
 ## Table of Contents
 
 - [What are UNESCO World Heritage Sites?](#what-are-unesco-world-heritage-sites)
-- [Complete List of Sites in India (43)](#complete-list-of-sites-in-india-43)
+- [Complete List of Sites in India (44)](#complete-list-of-sites-in-india-44)
 - [Statewise UNESCO Sites](#statewise-unesco-sites)
 - [Cultural Heritage Sites (35)](#cultural-heritage-sites-35)
 - [Natural Heritage Sites (7)](#natural-heritage-sites-7)
@@ -36,7 +36,7 @@ UNESCO World Heritage Sites are landmarks or areas recognized by the United Nati
 
 ---
 
-## Complete List of Sites in India (43)
+## Complete List of Sites in India (44)
 
 | #   | Site Name                                                     | State/UT                                          | Year |
 |-----|---------------------------------------------------------------|---------------------------------------------------------|------|
@@ -83,7 +83,7 @@ UNESCO World Heritage Sites are landmarks or areas recognized by the United Nati
 | 41  | Santiniketan                                               | West Bengal                                            | 2023 |
 | 42  | Sacred Ensembles of the Hoysala                            | Karnataka                                              | 2023 |
 | 43  | Moidams – Mound‑Burial System of the Ahom Dynasty           | Assam                                                  | 2024 |
-
+| 44  | Maratha Military Landscapes of India                      | Maharastra                                              | 2025 |       
 ---
 
 ## Statewise UNESCO Sites
@@ -135,6 +135,7 @@ Map credits: <a href="https://mapsforupsc.com/unesco-world-heritage-sites-in-ind
 - CST Mumbai
 - Victorian Gothic Mumbai
 - Western Ghats (shared)
+- Maratha Military Landscape(shared with Tamil Nadu) is India's latest and 44th addition to UNESCO World heritage List
 
 ### Madhya Pradesh
 - Khajuraho Monuments
@@ -158,6 +159,7 @@ Map credits: <a href="https://mapsforupsc.com/unesco-world-heritage-sites-in-ind
 - Great Living Chola Temples
 - Nilgiri Railway
 - Western Ghats (shared)
+- Maratha Military Landscape(shared with Maharastra) is India's latest and 44th addition to UNESCO World heritage List
 
 ### Telangana
 - Ramappa Temple
@@ -177,7 +179,7 @@ Map credits: <a href="https://mapsforupsc.com/unesco-world-heritage-sites-in-ind
 
 ---
 
-## Cultural Heritage Sites (35)
+## Cultural Heritage Sites (36)
 
 Most of India’s UNESCO sites are cultural—temples, forts, palaces, cave temples, archaeological sites, and distinctive built heritage—showing the country’s artistic ingenuity and historical depth.
 
@@ -212,25 +214,45 @@ Map credits: <a href="https://mapsforupsc.com/unesco-world-heritage-sites-in-ind
 ## FAQs
 
 **Q1: How many UNESCO World Heritage Sites does India have in 2025?**  
-A: India has **43** sites—35 cultural, 7 natural, and 1 mixed.
+A: India has **44** world heritage sites — 36 cultural, 7 natural, and 1 mixed.
 
-**Q2: Which were the first sites recognized?**  
-A: In 1983: Ajanta Caves, Ellora Caves, Agra Fort, and Taj Mahal.
+**Q2: Which were the first UNESCO site to be recognized?**  
+A: In 1983: Ajanta Caves, Ellora Caves, Agra Fort, and Taj Mahal were the first from India to be recognised by UNESCO.
 
 **Q3: What is India’s only mixed site?**  
 A: **Khangchendzonga National Park**, added in 2016.
 
-**Q4: What is the most recent heritage site?**  
-A: **Moidams – Mound‑Burial System of the Ahom Dynasty** in Assam (2024).
+**Q4: What is the most recent world heritage site of India?**  
+A: Maratha Military landscapes of India is the latest UNESCO World heritage which was added on July 11, 2025 during 47th session of World heritage committee in Paris.
 
 **Q5: Which state has the highest number of sites?**  
-A: **Maharashtra**, with 5 sites.
+A: **Maharashtra**, with 6 sites has highest number of world heritage sites in India.
+
+
+**Q5: What are Maratha Military Landscapes?**  
+A: The Maratha Military landscapes of India, latest addition to UNESCO World heritage sites, are 12 forts built, adapted, or expanded by Marathas between 17th century and 19th century. These include:  
+** In Maharastra**
+- Salher Fort
+- Shivneri Fort
+- Lohgad
+- Khanderi Fort
+- Raigarh
+- Rajgarh
+- Pratapgarh
+- Suvarnadurg
+- Panhala Fort
+- Vijaydurg
+- Sindhudurg
+
+** In Tamil Nadu**
+- Gingee Fort
+
 
 ---
 
 ## Conclusion
 
-India’s 43 UNESCO World Heritage Sites are a testament to its exceptional cultural richness and natural diversity. For students, travelers, and heritage lovers, these sites offer incredible insight into India’s story. Bookmark and revisit this post whenever you need a quick reference or revision guide.
+India’s 44 UNESCO World Heritage Sites are a testament to its exceptional cultural richness and natural diversity. For students, travelers, and heritage lovers, these sites offer incredible insight into India’s story. Bookmark and revisit this post whenever you need a quick reference or revision guide.
 
 ---
 
