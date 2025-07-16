@@ -39,6 +39,7 @@ Article 170 of the Constitution of India mandates the establishment of a Legisla
 | Mizoram           | 40              |
 | Nagaland          | 60              |
 | Odisha            | 147             |
+| Puducherry        | 30              |
 | Punjab            | 117             |
 | Rajasthan         | 200             |
 | Sikkim            | 32              |
