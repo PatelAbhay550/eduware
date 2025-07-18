@@ -45,6 +45,9 @@ The Delimitation Commission is a high-powered body that is tasked with redrawing
 ## Why is Delimitation in News?
 Delimitation has been in the news recently due to the ongoing discussions about the need for a new Delimitation Commission. The leaders of Southern states, including Tamil Nadu, Kerala, Karnataka, Andhra Pradesh, and Telangana, have expressed concerns about the potential impact of delimitation on their political representation. Cheif Minister of Tamil Nadu, M.K. Stalin, has been vocal about the need to protect the interests of these states in the context of delimitation.
 
+## Article 82 of the Indian Constitution
+Article 82 of the Indian Constitution pertains to the readjustment of seats in the House of the People (Lok Sabha) and the division of states into territorial constituencies after each census. It mandates that this readjustment be done by an authority and in a manner determined by Parliament through a law.
+
 ## Importance of Delimitation
 Delimitation is essential for maintaining the democratic principle of equal representation. It ensures that each vote carries the same weight, regardless of where a voter lives. By redrawing constituency boundaries, the Delimitation Commission helps to:
 - **Reflect Population Changes**: As populations grow or decline, delimitation helps to adjust the boundaries to reflect these changes.
