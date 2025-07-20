@@ -1,5 +1,5 @@
 ---
-title: "Computer Knowledge Guide for SSC, RRB, Banking & State Government Exams"
+title: "Computer Knowledge Notes for SSC, RRB, Banking & State Government Exams"
 description: "Full blog on Computer, components of a computer, history of computer, computer generations, types of computers, hardware, software, computer viruses for competitive exams."
 pubDate: "July 20, 2025"
 heroImage: "../../assets/computer-knowlege.webp"
