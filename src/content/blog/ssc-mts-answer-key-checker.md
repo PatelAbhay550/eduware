@@ -2,7 +2,7 @@
 title: 'Free Tool to Calculate SSC MTS 2025 Answer Key'
 description: 'In this blog I will show you a free tool that helps ssc mts aspirants to check and calculate answer key to get accurate breakdown of result. This free tool is called Exam Rank Check, which provides free answer key calculator online.'
 pubDate: 'December 14, 2025'
-heroImage: '../../assets/bob-lbo-2025.jpg'
+heroImage: '../../assets/ssc-mts-answer-key-calculator.jpg'
 category: 'SSC Exams'
 tags: ["SSC MTS", "SSC MTS Calculator", "SSC Marks Calculator", "Answer key checker"]
 featured: true
