@@ -1,5 +1,3 @@
 User-agent: *
-Disallow: 
-Disallow: /cgi-bin/
+Allow: /
 Sitemap: https://eduware.vercel.app/sitemap.xml
-
